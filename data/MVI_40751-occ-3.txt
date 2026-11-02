@@ -1,0 +1,1145 @@
+
+
+bus: < bus1>; car: < car2>; person: < person8>; stop_sign: < >; truck: < >
+bus: < bus1>; car: < car10, car2>; person: < person8>; stop_sign: < >; truck: < >
+bus: < >; car: < car11, car2>; person: < person8>; stop_sign: < >; truck: < >
+bus: < bus1>; car: < car10, car11, car2>; person: < >; stop_sign: < >; truck: < >
+bus: < >; car: < car10, car2>; person: < >; stop_sign: < >; truck: < >
+bus: < >; car: < car10, car11, car2>; person: < >; stop_sign: < stop_sign18>; truck: < >
+bus: < >; car: < car11, car2>; person: < person19>; stop_sign: < stop_sign18>; truck: < >
+bus: < >; car: < car10, car11>; person: < person19>; stop_sign: < stop_sign18>; truck: < >
+bus: < >; car: < car2>; person: < person19>; stop_sign: < stop_sign18>; truck: < >
+bus: < >; car: < car10, car2>; person: < person19>; stop_sign: < stop_sign18>; truck: < >
+bus: < >; car: < >; person: < person19, person8>; potted_plant: < >; stop_sign: < stop_sign18>; truck: < >
+bus: < >; car: < >; person: < person19, person8>; stop_sign: < stop_sign18>; truck: < >
+bus: < >; car: < >; person: < person24>; stop_sign: < stop_sign18>; truck: < >
+bus: < bus1>; car: < >; person: < person19, person24>; stop_sign: < stop_sign18>; truck: < >
+bus: < bus1>; car: < >; person: < person19, person24, person8>; stop_sign: < stop_sign18>; truck: < >
+bus: < bus1>; car: < >; person: < person19, person24>; stop_sign: < stop_sign18>; truck: < >
+bus: < >; car: < car10>; person: < person19, person24>; stop_sign: < stop_sign18>; truck: < >
+bus: < >; car: < car10>; person: < person19, person24, person8>; stop_sign: < stop_sign18>; truck: < >
+bus: < bus1>; car: < car10>; person: < person19, person24, person8>; stop_sign: < stop_sign18>; truck: < >
+bus: < bus1>; car: < >; person: < person19, person24, person29, person8>; stop_sign: < stop_sign18>; truck: < >
+bus: < >; car: < >; person: < person24, person29, person8>; stop_sign: < stop_sign18>; truck: < >
+bus: < >; car: < >; person: < person24, person29, person8>; stop_sign: < stop_sign18>; truck: < >
+bus: < bus1>; car: < car10>; person: < person24, person29, person36, person8>; stop_sign: < stop_sign18>; truck: < >
+bus: < >; car: < car10>; person: < person36, person8>; stop_sign: < stop_sign18>; truck: < >
+bus: < >; car: < car10>; person: < person24, person36>; stop_sign: < stop_sign18>; truck: < >
+bus: < bus41>; car: < car10>; person: < person24, person36>; stop_sign: < stop_sign18>; truck: < >
+bus: < bus1>; car: < car10>; person: < person24, person36>; stop_sign: < stop_sign18>; truck: < >
+bus: < >; car: < car10>; handbag: < >; person: < person24, person36>; stop_sign: < stop_sign18>; truck: < >
+bus: < >; car: < car10>; person: < person24, person36>; stop_sign: < stop_sign18>; truck: < >
+bus: < >; car: < car10>; person: < person24, person36, person8>; stop_sign: < >; truck: < >
+bus: < >; car: < >; person: < person24, person29, person36, person8>; truck: < >
+bus: < >; car: < car11>; person: < person24, person29, person36, person8>; stop_sign: < >; truck: < >
+bus: < >; car: < car10>; person: < person24, person29, person36, person8>; stop_sign: < >
+bus: < bus1>; car: < car10>; person: < person24, person29, person36>
+bus: < >; car: < car10, car11, car2>; person: < person24, person29, person36>
+bus: < bus1>; car: < car10, car11, car2>; person: < person24, person29, person36>
+bus: < >; car: < car10, car11, car2>; person: < person24, person29, person36>
+bus: < >; car: < car10, car11, car2>; person: < person24, person36, person8>
+bus: < bus1>; car: < car11, car2>; person: < person24, person36, person8>
+bus: < >; car: < car10, car11, car2>; person: < person24, person36, person61>
+bus: < >; car: < car11, car2>; person: < person24, person36, person8>
+bus: < bus1>; car: < car11, car2>; fire_hydrant: < >; person: < person24, person36, person8>
+bus: < >; car: < car11, car2>; fire_hydrant: < >; person: < person24, person29, person36>
+bus: < bus1>; car: < car10, car11, car2>; person: < person24, person29, person36, person8>
+bus: < >; car: < car11, car2>; person: < person24, person64>
+bus: < bus1>; car: < car11, car2>; person: < person24, person61, person64, person8>
+bus: < >; car: < car10, car2>; person: < person24, person29, person61, person64, person8>
+bus: < bus1>; car: < car11>; person: < person19, person24, person61, person64, person8>
+bus: < >; car: < car11, car2>; person: < person19, person24, person61, person64, person67, person8>
+bus: < >; car: < car11, car2>; person: < person24, person36, person64, person67, person8>
+bus: < >; car: < car11, car2>; person: < person24, person29, person36, person61, person64, person67, person8>; truck: < >
+bus: < >; car: < car11, car2>; person: < person24, person29, person36, person61, person64, person67, person8>
+bus: < >; car: < car11, car2>; person: < person24, person29, person36, person64, person67, person75>
+bus: < >; car: < car11>; person: < person24, person29, person64, person67, person75, person8>
+bus: < >; car: < car11, car2>; person: < person24, person29, person61, person64, person67, person75, person8>
+bus: < >; car: < car11, car2>; person: < person24, person36, person61, person64, person67, person75, person8>
+bus: < >; car: < car11, car2>; person: < person19, person24, person29, person36, person61, person64, person67, person75, person8>
+bicycle: < >; bus: < >; car: < car11, car2>; person: < person19, person24, person29, person36, person61, person64, person67, person75, person8>
+bicycle: < >; bus: < >; car: < car11, car2>; person: < person19, person24, person36, person61, person64, person67, person75, person8>
+bicycle: < >; bus: < >; car: < car11, car2>; person: < person19, person24, person36, person61, person64, person67, person75, person8>
+bicycle: < bicycle83>; bus: < >; car: < car11, car2>; person: < person19, person24, person29, person36, person61, person64, person67, person75, person8, person84>
+bicycle: < bicycle83>; bus: < >; car: < car11, car2>; person: < person24, person29, person36, person61, person64, person67, person75, person8, person84>
+bicycle: < bicycle83>; bus: < >; car: < car2>; person: < person24, person36, person64, person67, person75, person8, person84>
+bicycle: < bicycle83>; bus: < >; car: < car11, car2>; person: < person19, person24, person36, person61, person64, person67, person75, person8>
+bicycle: < bicycle83>; bus: < >; car: < car11, car2>; person: < person19, person24, person36, person61, person64, person75, person8, person84>
+bicycle: < bicycle83>; bus: < >; car: < car11, car2>; person: < person19, person24, person36, person61, person64, person67, person75, person8>
+bicycle: < >; bus: < >; car: < car11, car2>; person: < person19, person24, person36, person61, person64, person67, person75, person8>
+bicycle: < bicycle83>; bus: < >; car: < car10, car11, car2>; person: < person19, person24, person61, person64, person67, person75, person8>
+bicycle: < bicycle83>; bus: < >; car: < car11, car2>; person: < person19, person24, person36, person61, person64, person67, person75, person8>
+bicycle: < bicycle83>; bus: < >; car: < car11, car2>; person: < person19, person24, person36, person64, person67, person75, person8>
+bench: < >; bicycle: < bicycle83>; bus: < >; car: < car11, car2>; person: < person24, person29, person36, person64, person67, person75, person8>
+bicycle: < bicycle83>; bus: < >; car: < car11, car2>; person: < person24, person64, person67, person75, person8>
+bicycle: < bicycle83>; bus: < >; car: < car11, car2>; person: < person24, person36, person61, person64, person67, person75, person8>
+bicycle: < bicycle83>; bus: < >; car: < car11, car2>; person: < person36, person61, person64, person67, person75, person8>
+bench: < >; bicycle: < bicycle83>; bus: < >; car: < car11, car2>; person: < person29, person61, person64, person67, person75, person8>; stop_sign: < >
+bicycle: < bicycle83>; bus: < >; car: < car11, car2>; person: < person61, person64, person67, person75, person8>
+bicycle: < bicycle83>; bus: < >; car: < car11, car2>; handbag: < >; person: < person29, person36, person61, person64, person67, person75, person8>
+bicycle: < bicycle83>; bus: < >; car: < car11, car2>; person: < person19, person29, person36, person61, person64, person67, person75, person8>; stop_sign: < >
+bicycle: < bicycle83>; bus: < >; car: < car11, car2>; person: < person19, person29, person36, person61, person64, person75, person8>; stop_sign: < >
+bench: < >; bicycle: < bicycle83>; bus: < >; car: < car11, car2>; person: < person29, person64, person67, person75, person8>
+bicycle: < bicycle83>; bus: < >; car: < car11, car2>; person: < person29, person64, person67, person75, person8>; stop_sign: < >
+bicycle: < bicycle83>; bus: < >; car: < car11, car2>; person: < person19, person29, person64, person67, person75, person8>
+bicycle: < bicycle83>; bus: < >; car: < car2>; person: < person19, person29, person67, person75, person8>; stop_sign: < >
+bicycle: < bicycle83>; bus: < >; car: < car11, car2>; person: < person19, person29, person64, person75, person8>
+bench: < >; bicycle: < bicycle83>; bus: < >; car: < car11, car2>; handbag: < >; person: < person19, person64, person67, person75, person8>; stop_sign: < >
+bicycle: < bicycle83>; bus: < >; car: < car11, car2>; person: < person19, person61, person64, person75, person8>; stop_sign: < >
+bicycle: < bicycle83>; bus: < >; car: < car11, car2>; motorcycle: < >; parking_meter: < >; person: < person61, person64, person67, person75, person8>; stop_sign: < >
+bicycle: < bicycle83>; bus: < >; car: < car11, car2>; person: < person64, person67, person75, person8>; stop_sign: < >
+bicycle: < bicycle83>; bus: < >; car: < car11, car2>; person: < person29, person64, person67, person75, person8>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < >; car: < car11, car2>; person: < person29, person61, person64, person67, person75, person8>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < >; car: < car11, car2>; person: < person61, person67, person75, person8>; stop_sign: < >
+bicycle: < >; bus: < >; car: < car11, car2>; handbag: < >; person: < person19, person29, person36, person61, person64, person67, person75, person8>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < >; car: < car11, car2>; person: < person29, person61, person64, person67, person75, person8>; stop_sign: < stop_sign18>; truck: < >
+bicycle: < bicycle83>; bus: < >; car: < car11, car2>; person: < person29, person64, person67, person75, person8>; stop_sign: < stop_sign18>; traffic_light: < >
+bicycle: < bicycle83>; bus: < >; car: < car11, car2>; motorcycle: < >; person: < person29, person61, person67, person75, person8>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < >; car: < car11, car2>; person: < person61, person67, person75, person8>; stop_sign: < stop_sign18>
+bus: < >; car: < >; person: < person24, person61, person67, person75, person8>; stop_sign: < stop_sign18>; traffic_light: < >
+bus: < >; car: < car11>; person: < person36, person61, person64, person67, person75, person8>; stop_sign: < stop_sign18>; traffic_light: < >
+bus: < >; car: < car11, car123>; motorcycle: < >; person: < person24, person29, person36, person61, person67, person75, person8>; stop_sign: < stop_sign18>
+bus: < >; car: < car11, car123>; motorcycle: < >; person: < person24, person29, person61, person64, person67, person75, person8>; stop_sign: < stop_sign18>
+bus: < >; car: < car11, car123, car2>; motorcycle: < >; person: < person24, person61, person64, person67, person75>; stop_sign: < stop_sign18>
+bus: < >; car: < car11, car123, car2>; parking_meter: < >; person: < person24, person29, person61, person67, person75, person8>; stop_sign: < stop_sign18>
+bus: < >; car: < car10, car2>; person: < person24, person29, person61, person64, person75, person8>; stop_sign: < stop_sign18>; truck: < >
+bench: < >; bus: < >; car: < car10, car2>; handbag: < >; person: < person29, person61, person64, person75, person8>; stop_sign: < stop_sign18>
+bus: < >; car: < car10, car11, car2>; person: < person19, person24, person29, person61, person64, person67, person75, person8>; stop_sign: < stop_sign18>
+bus: < >; car: < car10, car11>; person: < person19, person24, person29, person61, person64, person75, person8>; stop_sign: < stop_sign18>
+bus: < >; car: < car10, car11>; person: < person24, person36, person61, person64, person67, person75, person8>; stop_sign: < stop_sign18>; truck: < >
+bench: < >; bus: < >; car: < car10, car11, car2>; motorcycle: < >; person: < person19, person24, person29, person36, person61, person64, person67, person75, person8>; stop_sign: < stop_sign18>
+bus: < >; car: < car10, car11, car2>; fire_hydrant: < >; person: < person19, person24, person29, person61, person75, person8>; stop_sign: < stop_sign18>
+bus: < >; car: < car10, car11, car2>; person: < person24, person29, person61, person75, person8>; stop_sign: < stop_sign18>
+bus: < >; car: < car10, car11, car2>; person: < person24, person29, person61, person64, person67, person75, person8>; stop_sign: < stop_sign18>
+bus: < >; car: < car10, car11, car2>; person: < person29, person36, person61, person64, person67, person75, person8>; stop_sign: < stop_sign18>
+bus: < >; car: < car10, car11, car2>; fire_hydrant: < >; person: < person24, person29, person64, person67, person75, person8>; stop_sign: < stop_sign18>
+bus: < >; car: < car10, car11, car2>; fire_hydrant: < >; person: < person24, person29, person64, person67, person75, person8>; stop_sign: < stop_sign18>
+bus: < >; car: < car10, car11, car2>; person: < person24, person36, person64, person67, person75, person8>; stop_sign: < stop_sign18>
+bus: < >; car: < car10, car11, car2>; fire_hydrant: < fire_hydrant96>; person: < person24, person67, person75, person8>; stop_sign: < stop_sign18>
+bus: < >; car: < car10, car11, car2>; fire_hydrant: < >; person: < person24, person29, person64, person67, person75, person8>; stop_sign: < stop_sign18>
+bus: < >; car: < car10, car11, car2>; person: < person24, person29, person36, person61, person64, person67, person75, person8>; stop_sign: < stop_sign18>
+bus: < >; car: < car10, car11, car129, car2>; person: < person24, person29, person61, person64, person67, person75, person8>; stop_sign: < stop_sign18>
+bench: < >; bus: < >; car: < car10>; person: < person24, person36, person61, person64, person67, person75, person8>; stop_sign: < stop_sign18>
+bus: < >; car: < car10, car11>; person: < person24, person29, person61, person64, person67, person8>; stop_sign: < stop_sign18>
+bus: < >; car: < car10, car11, car2>; fire_hydrant: < >; person: < person24, person29, person67, person8>; stop_sign: < stop_sign18>
+bus: < >; car: < car10, car11>; person: < person24, person29, person8>; stop_sign: < stop_sign18>
+bicycle: < >; bus: < >; car: < car10, car2>; person: < person29, person75, person8>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < >; car: < car10, car11, car2>; person: < person29, person75, person8>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < >; car: < car10, car2>; person: < person29, person75, person8>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < >; car: < car10, car11, car2>; person: < person29, person61, person75, person8>; stop_sign: < stop_sign18>
+bicycle: < >; bus: < >; car: < car10, car2>; person: < person29, person61, person75, person8>; stop_sign: < stop_sign18>; truck: < >
+bicycle: < >; bus: < >; car: < car10, car11, car2>; fire_hydrant: < >; person: < person24, person29, person75>; stop_sign: < stop_sign18>; truck: < >
+bicycle: < bicycle83>; bus: < >; car: < car10, car2>; person: < person24, person29, person8>; stop_sign: < stop_sign18>
+bicycle: < >; bus: < >; car: < car10, car123>; person: < person29, person36, person61, person8>; stop_sign: < stop_sign18>; truck: < >
+bicycle: < >; bus: < >; car: < car10, car123, car2>; fire_hydrant: < fire_hydrant96>; person: < person24, person29, person61, person8>; stop_sign: < stop_sign18>
+bicycle: < >; bus: < >; car: < car10, car123, car2>; person: < person24, person29, person61, person8>; stop_sign: < stop_sign18>; truck: < >
+bus: < >; car: < car10, car123, car2>; fire_hydrant: < >; person: < person24, person29, person61, person8>; stop_sign: < stop_sign18>
+bench: < >; bicycle: < >; bus: < >; car: < car10, car123, car2>; fire_hydrant: < fire_hydrant96>; person: < person24, person29, person8>; stop_sign: < stop_sign18>
+bicycle: < >; bus: < >; car: < car10, car123, car129, car2>; parking_meter: < >; person: < person24, person29, person75>; stop_sign: < stop_sign18>
+bicycle: < >; bus: < >; car: < car10, car11, car127, car2>; fire_hydrant: < >; person: < person24, person29, person75>; stop_sign: < stop_sign18>; truck: < >
+bicycle: < >; bus: < >; car: < car10, car11, car123, car127>; fire_hydrant: < >; person: < person24, person29>; stop_sign: < stop_sign18>
+bus: < >; car: < car10, car11, car123, car2>; person: < person24, person29, person61, person8>; stop_sign: < stop_sign18>
+bicycle: < >; bus: < >; car: < car10, car11, car123, car2>; person: < person24, person29, person61, person8>; stop_sign: < stop_sign18>
+bicycle: < >; bus: < >; car: < car10, car123, car2>; fire_hydrant: < >; person: < person24, person29, person75, person8>; stop_sign: < stop_sign18>
+bicycle: < >; bus: < >; car: < car10, car123, car2>; fire_hydrant: < >; person: < person24, person29, person75, person8>; stop_sign: < stop_sign18>
+bicycle: < >; bus: < >; car: < car10, car123, car2>; fire_hydrant: < >; person: < person24, person29, person61, person75, person8>; stop_sign: < stop_sign18>
+bus: < >; car: < car10, car123, car2>; fire_hydrant: < >; person: < person24, person29, person61, person75, person8>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; car: < car10, car123, car127, car2>; person: < person24, person29, person61, person75, person8>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; car: < car10, car123, car2>; person: < person24, person29, person75, person8>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; car: < car10, car123, car2>; motorcycle: < >; person: < person24, person29, person75, person8>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; car: < car10, car123, car2>; person: < person24, person29, person8>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; car: < car123>; person: < person24, person29, person75, person8>; stop_sign: < stop_sign18>; truck: < >
+bicycle: < bicycle83>; car: < car10, car123>; motorcycle: < >; person: < person24, person29, person75, person8>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; car: < car123, car2>; motorcycle: < >; person: < person24, person29, person75, person8>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; car: < car123, car2>; motorcycle: < >; person: < person24, person29, person8>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; car: < car10, car123>; motorcycle: < >; person: < person24, person29, person75, person8>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; car: < car10, car123>; motorcycle: < >; person: < person24, person29, person75, person8>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; car: < car123>; person: < person24, person29, person75, person8>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; car: < car123>; person: < person24, person29, person61, person75>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; car: < car10, car123, car127>; person: < person24, person29, person61, person75, person8>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; car: < car10, car123, car127>; person: < person29, person75, person8>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; car: < car10, car123>; person: < person29, person75>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; car: < car10, car123, car127>; person: < person29, person75>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; car: < car10, car123>; handbag: < >; person: < person24, person75>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; car: < car10, car123>; handbag: < >; person: < person75>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; car: < car10, car123>; handbag: < >; person: < person36, person75>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; car: < car10, car123, car127, car2>; person: < person75, person8>; stop_sign: < stop_sign18>
+bicycle: < >; car: < car10, car123>; motorcycle: < >; person: < person75, person8>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; car: < car10, car123, car129>; person: < person75, person8>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; car: < car10, car123, car129, car2>; motorcycle: < >; person: < person8>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; car: < car10, car123, car129>; person: < person8>; stop_sign: < stop_sign18>; truck: < >
+bicycle: < bicycle83>; car: < car10, car123, car129, car2>; motorcycle: < >; person: < person75>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; car: < car10, car123>; person: < person29, person75, person8>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; car: < car10, car123, car2>; motorcycle: < >; person: < person29, person75, person8>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; car: < car10, car123, car2>; motorcycle: < >; parking_meter: < >; person: < person24, person29, person75, person8>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; car: < car10, car123>; motorcycle: < >; person: < person24, person29, person75, person8>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; car: < car10, car123, car127, car2>; person: < person24, person29, person75, person8>; stop_sign: < stop_sign18>; truck: < >
+bicycle: < bicycle83>; car: < car10, car123, car2>; motorcycle: < >; person: < person29, person75>; stop_sign: < stop_sign18>; truck: < >
+bicycle: < >; car: < car10, car123, car2>; motorcycle: < motorcycle83>; person: < person24, person29, person75>; stop_sign: < stop_sign18>; truck: < >
+bicycle: < bicycle83>; car: < car10, car123, car2>; parking_meter: < >; person: < person24, person29, person75>; stop_sign: < stop_sign18>; truck: < >
+bicycle: < bicycle83>; car: < car10, car123, car2>; person: < person24, person29, person75>; stop_sign: < stop_sign18>; truck: < >
+bicycle: < bicycle83>; car: < car10, car2>; motorcycle: < >; person: < person29, person75>; stop_sign: < stop_sign18>; truck: < >
+bicycle: < bicycle83>; car: < car10, car123>; person: < person29, person75>; stop_sign: < stop_sign18>; truck: < >
+bicycle: < bicycle83>; car: < car10, car123>; fire_hydrant: < >; motorcycle: < >; person: < person29, person75>; stop_sign: < stop_sign18>; truck: < >
+bicycle: < bicycle83>; car: < car10, car123>; motorcycle: < >; person: < person29, person75>; stop_sign: < stop_sign18>; truck: < >
+bicycle: < bicycle83>; car: < car10, car123>; motorcycle: < >; person: < person29, person75>; stop_sign: < stop_sign18>; truck: < >
+bench: < >; bicycle: < bicycle83>; car: < car10, car123>; person: < person29>; stop_sign: < stop_sign18>; truck: < >
+bench: < >; bicycle: < bicycle83>; car: < car10, car123>; motorcycle: < >; person: < person29>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; car: < car10, car123>; person: < person29, person75>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; car: < car10, car123>; person: < person29, person75>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; car: < car10, car123>; person: < person29, person75>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; car: < car10, car123>; person: < person75>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; car: < car10, car123>; person: < person75>; stop_sign: < >
+bicycle: < bicycle83>; car: < car10, car123>; person: < person75>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; car: < car10, car123>; fire_hydrant: < >; person: < person75>; stop_sign: < stop_sign18>; truck: < >
+bicycle: < bicycle83>; car: < car10, car123>; person: < person75>; stop_sign: < >
+bicycle: < bicycle83>; car: < car10, car123>; person: < person75>; truck: < >
+bicycle: < bicycle83>; car: < car10>; fire_hydrant: < >; person: < person75>
+bench: < >; bicycle: < bicycle83>; car: < car10>; fire_hydrant: < >; person: < person75>
+bench: < >; bicycle: < bicycle83>; car: < car10, car123>; person: < person75>
+bench: < >; bicycle: < bicycle83>; car: < car10, car123>; person: < person75>
+bench: < >; bicycle: < bicycle83>; car: < car10, car123>; person: < person75>
+bicycle: < bicycle83>; car: < car10, car123>; person: < person75>
+bicycle: < bicycle83>; car: < car10, car123>; person: < person75>; stop_sign: < >
+bicycle: < bicycle83>; car: < car10, car123>; person: < person75>; stop_sign: < >
+bicycle: < bicycle83>; car: < car10>; person: < person75>
+bench: < >; bicycle: < bicycle83>; car: < car10, car123, car127, car2>; person: < person75>; stop_sign: < >
+bicycle: < bicycle83>; car: < car10, car123, car127>; person: < person75>; stop_sign: < >
+bicycle: < bicycle83>; car: < car10, car123>; person: < person75>; stop_sign: < >; truck: < >
+bicycle: < bicycle83>; car: < car10, car123>; person: < person75>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; car: < car10>; person: < person75>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; car: < car10, car2>; person: < person29, person75>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; car: < car10, car2>; person: < person29, person75>; stop_sign: < >; truck: < >
+bicycle: < bicycle83>; car: < car10>; person: < person29, person75>; stop_sign: < >
+bicycle: < bicycle83>; car: < car10, car123>; person: < person75>; stop_sign: < >
+bicycle: < bicycle83>; car: < car10, car123>; parking_meter: < >; person: < person29, person75>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < >; car: < car10, car123>; person: < person29, person75>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < >; car: < car10, car123>; person: < person75>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < bus1>; car: < car10, car11, car123, car2>; person: < person29, person75>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < >; car: < car10, car11, car123>; person: < person29, person75>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < >; car: < car10, car11, car123>; person: < person75>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < >; car: < car10>; motorcycle: < >; parking_meter: < >; person: < person75>; stop_sign: < stop_sign18>; truck: < >
+bicycle: < bicycle83>; bus: < >; car: < car10, car123>; person: < person29, person75>; stop_sign: < stop_sign18>; truck: < >
+bicycle: < bicycle83>; bus: < >; car: < car10, car123>; person: < person29, person75>; stop_sign: < stop_sign18>; truck: < >
+bicycle: < bicycle83>; bus: < >; car: < car10, car123>; person: < person29, person75>; stop_sign: < stop_sign18>; truck: < >
+bicycle: < bicycle83>; bus: < bus1>; car: < car10>; person: < person29, person75>; stop_sign: < stop_sign18>; truck: < >
+bench: < >; bicycle: < bicycle83>; bus: < bus1>; car: < car10, car123>; person: < person29, person75>; stop_sign: < stop_sign18>; truck: < >
+bicycle: < bicycle83>; bus: < >; car: < car10, car123>; person: < person29, person75>; stop_sign: < stop_sign18>
+bench: < >; bicycle: < bicycle83>; bus: < >; car: < car10, car123>; motorcycle: < >; person: < person29, person75>; stop_sign: < stop_sign18>
+bench: < >; bicycle: < bicycle83>; bus: < >; car: < car10, car123>; person: < person29, person75>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < >; car: < car10, car123>; motorcycle: < >; person: < person29, person75>; stop_sign: < stop_sign18>
+bench: < >; bicycle: < bicycle83>; bus: < >; car: < car10, car123>; person: < person29, person75>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < >; car: < car10, car123>; person: < person29, person75>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < >; car: < car10, car123>; person: < person29, person75>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < >; car: < car10>; motorcycle: < >; person: < person29, person75>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < >; car: < car10, car123>; person: < person29, person75>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < >; car: < car10, car123>; motorcycle: < >; person: < person29, person75>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < >; car: < car10, car123>; motorcycle: < >; person: < person29, person75>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < >; car: < car10, car123>; person: < person29, person75>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < >; car: < car10, car123>; motorcycle: < >; person: < person29, person75>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < >; car: < car10, car123>; person: < person29, person75>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < >; car: < car10, car123>; person: < person29, person75>; stop_sign: < stop_sign18>
+bicycle: < >; bus: < >; car: < car10, car123>; person: < person29, person75>; stop_sign: < stop_sign18>
+bench: < >; bicycle: < bicycle83>; bus: < >; car: < car10, car123>; person: < person29, person75>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < >; car: < car10, car123>; person: < person29, person75>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < >; car: < car10, car123>; motorcycle: < >; person: < person29>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < >; car: < car10, car123>; person: < >; stop_sign: < stop_sign18>; truck: < >
+bicycle: < bicycle83>; bus: < >; car: < car10, car123>; person: < >; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < >; car: < car10, car123>; motorcycle: < >; person: < >; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < >; car: < car10, car123>; person: < >; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < >; car: < car10, car123>; parking_meter: < >; person: < >; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < >; car: < car10, car123>; person: < >; stop_sign: < stop_sign18>
+bench: < >; bicycle: < bicycle83>; bus: < >; car: < car10, car123>; motorcycle: < >; person: < >; stop_sign: < stop_sign18>
+bench: < >; bicycle: < bicycle83>; bus: < >; car: < car10, car123>; fire_hydrant: < >; person: < person8>; stop_sign: < stop_sign18>
+bench: < >; bicycle: < bicycle83>; bus: < >; car: < car10, car123>; person: < person8>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < >; car: < car10, car123>; person: < person19, person8>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < >; car: < car10, car123, car2>; person: < person19, person8>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < >; car: < car10, car123, car2>; person: < person19, person8>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < >; car: < car10, car123, car2>; person: < person8>; stop_sign: < stop_sign18>
+bench: < >; bicycle: < bicycle83>; bus: < >; car: < car10, car2>; person: < person75, person8>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < >; car: < car10, car123, car2>; person: < person75, person8>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < >; car: < car10, car123>; person: < person8>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < >; car: < car10>; person: < person19, person75, person8>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < >; car: < car10>; person: < person19, person75, person8>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < >; car: < car10, car2>; person: < person19, person75, person8>; stop_sign: < stop_sign18>
+bench: < >; bicycle: < bicycle83>; bus: < >; car: < car10, car123, car2>; person: < person75, person8>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < >; car: < car10, car123>; person: < person19, person75, person8>; stop_sign: < stop_sign18>
+bench: < >; bicycle: < bicycle83>; bus: < >; car: < car10, car123>; person: < person19, person75, person8>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < >; car: < car10>; fire_hydrant: < >; person: < person19, person75, person8>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < >; car: < car10, car11>; person: < person75, person8>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < >; car: < car10, car2>; person: < person75, person8>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < >; car: < car10, car2>; person: < person75, person8>; stop_sign: < stop_sign18>
+bench: < >; bicycle: < bicycle83>; bus: < >; car: < car10, car2>; person: < person75, person8>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < >; car: < car10, car2>; person: < person75, person8>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < bus1>; car: < car10, car11, car2>; person: < person75, person8>; stop_sign: < stop_sign18>
+bench: < >; bicycle: < bicycle83>; bus: < >; car: < car10, car11, car2>; person: < person75, person8>; stop_sign: < stop_sign18>
+bicycle: < bicycle83>; bus: < >; car: < car10, car11, car2>; person: < person75, person8>; stop_sign: < >
+bicycle: < bicycle83>; bus: < >; car: < car10, car11, car2>; person: < person75, person8>; stop_sign: < >
+bicycle: < bicycle83>; bus: < bus1>; car: < car10, car11, car2>; person: < person75, person8>
+bicycle: < bicycle83>; bus: < bus1>; car: < car10, car2>; person: < person75, person8>; stop_sign: < >
+bicycle: < bicycle83>; bus: < >; car: < car10, car11, car2>; person: < person75, person8>
+bench: < >; bicycle: < bicycle83>; bus: < >; car: < car10, car11, car2>; person: < person19, person75, person8>; stop_sign: < >
+bicycle: < bicycle83>; bus: < >; car: < car10, car11, car2>; person: < person19, person24, person75, person8>; stop_sign: < >
+bicycle: < bicycle83>; bus: < bus1>; car: < car10, car2>; person: < person24, person75, person8>
+bicycle: < bicycle83>; bus: < >; car: < car10, car2>; person: < person24, person75, person8>; stop_sign: < >
+bicycle: < bicycle83>; bus: < >; car: < car10, car2>; person: < person24, person75, person8>
+bicycle: < bicycle83>; bus: < >; car: < car10, car2>; person: < person24, person8>
+bicycle: < bicycle83>; bus: < bus41>; car: < car10, car2>; fire_hydrant: < >; person: < person24, person8>
+bench: < >; bicycle: < bicycle83>; bus: < >; car: < car10, car2>; motorcycle: < >; person: < person8>
+bicycle: < bicycle83>; bus: < bus1>; car: < car10, car2>; person: < person8>
+bicycle: < bicycle83>; bus: < >; car: < car10, car2>; person: < person75, person8>
+bicycle: < bicycle83>; bus: < >; car: < car10>; fire_hydrant: < >; person: < person75, person8>
+bench: < >; bicycle: < bicycle83>; bus: < bus229>; car: < car10, car2>; person: < person75, person8>
+bicycle: < bicycle83>; bus: < bus229>; car: < car10, car2>; fire_hydrant: < >; person: < person75, person8>
+bicycle: < bicycle83>; bus: < >; car: < car10, car2>; person: < person75, person8>
+bicycle: < bicycle83>; bus: < >; car: < car10, car2>; person: < person75, person8>
+bicycle: < bicycle83>; bus: < >; car: < car10, car2>; person: < person24, person75, person8>
+bicycle: < bicycle83>; bus: < >; car: < car10, car2>; person: < person24, person75, person8>
+bicycle: < bicycle83>; bus: < bus1>; car: < car10, car2>; person: < person75, person8>
+bicycle: < bicycle83>; bus: < bus1, bus229>; car: < car10, car2>; person: < person19, person8>
+bicycle: < bicycle83>; bus: < bus229>; car: < car10, car11, car2>; person: < person19, person24, person8>
+bench: < >; bicycle: < bicycle83>; bus: < bus229, bus41>; car: < car10, car11, car2>; person: < person19, person24, person75, person8>
+bicycle: < bicycle83>; bus: < bus1, bus229, bus41>; car: < car10, car2>; person: < person19, person24, person75, person8>
+bicycle: < bicycle83>; bus: < >; car: < car10, car2>; parking_meter: < >; person: < person19, person24, person75, person8>
+bicycle: < bicycle83>; bus: < >; car: < car10, car2>; person: < person19, person24, person75, person8>
+bicycle: < bicycle83>; bus: < >; car: < car10, car2>; person: < person19, person24, person75, person8>
+bench: < >; bicycle: < bicycle83>; bus: < >; car: < car10, car2>; parking_meter: < >; person: < person24, person75, person8>
+bicycle: < bicycle83>; bus: < >; car: < car10, car2>; person: < person24, person75, person8>
+bicycle: < bicycle83>; bus: < bus41>; car: < car10, car2>; person: < person24, person75, person8>
+bicycle: < bicycle83>; bus: < >; car: < car10, car2>; person: < person24, person75, person8>
+bench: < >; bicycle: < >; bus: < >; car: < car10, car2>; person: < person24, person75, person8>
+bicycle: < >; bus: < >; car: < car10, car123, car2>; person: < person24, person75, person8>
+bicycle: < >; bus: < >; car: < car10, car2>; person: < person24, person75, person8>
+bicycle: < >; bus: < bus41>; car: < car10, car2>; person: < person75, person8>
+bicycle: < bicycle83>; bus: < bus41>; car: < car10, car2>; person: < person24, person75, person8>
+bench: < >; bicycle: < >; bus: < bus41>; car: < car10, car2>; motorcycle: < >; person: < person24, person75, person8>
+bicycle: < >; bus: < >; car: < car10>; motorcycle: < >; person: < person24, person75, person8>
+bench: < >; bicycle: < >; bus: < bus41>; car: < car10, car2>; motorcycle: < >; person: < person24, person75, person8>
+bench: < >; bicycle: < >; bus: < bus250>; car: < car10>; motorcycle: < >; person: < person24, person75, person8>
+bench: < >; bicycle: < >; bus: < >; car: < car10, car2>; motorcycle: < >; person: < person24, person75, person8>
+bus: < bus41>; car: < car10, car11, car2>; person: < person24, person8>
+bicycle: < >; bus: < >; car: < car10, car2>; person: < person24, person8>
+bench: < >; bus: < bus41>; car: < car10>; person: < person24, person8>
+bench: < >; bus: < bus41>; car: < car10, car2>; person: < person24, person8>
+bus: < >; car: < car10, car11, car2>; fire_hydrant: < >; person: < person24, person8>
+bench: < >; bus: < >; car: < car10, car11, car2>; fire_hydrant: < >; person: < person24, person8>
+bus: < bus41>; car: < car10, car11, car2>; person: < person8>
+bus: < >; car: < car10, car2>; person: < person19, person8>
+bus: < >; car: < car10, car11, car2>; person: < person19, person8>
+bus: < >; car: < car10, car11>; person: < person19, person24, person8>
+bus: < bus1>; car: < car10, car2>; person: < person19, person24, person8>
+bench: < >; bus: < >; car: < car10>; person: < person19, person24, person8>
+bench: < >; bus: < >; car: < car10, car2>; person: < person19, person8>
+bench: < >; bus: < bus1>; car: < car10, car123, car2>; fire_hydrant: < >; person: < person19, person24, person8>
+bus: < >; car: < car10, car123, car2>; person: < person19, person24, person8>
+bench: < >; bus: < bus1>; car: < car10, car2>; person: < person19, person24, person8>
+bus: < bus229>; car: < car10, car2>; person: < person19, person24, person8>; truck: < >
+bus: < >; car: < car10, car2>; person: < person19, person24, person29, person8>
+bus: < bus1, bus229>; car: < car10, car129, car2>; person: < person19, person24, person36, person8>
+bench: < >; bus: < >; car: < car10, car2>; person: < person19, person24, person29, person8>
+bench: < >; bus: < >; car: < car10, car123, car129, car2>; person: < person19, person29, person8>
+bus: < >; car: < car10, car123, car129, car2>; person: < person19, person24, person29, person8>; stop_sign: < >; truck: < >
+bench: < >; bus: < >; car: < car10, car129>; person: < person19, person24, person29, person36, person8>
+bicycle: < >; bus: < bus229>; car: < car10, car129, car2>; person: < person19, person24, person36, person8>; stop_sign: < >
+bench: < bench213>; bicycle: < >; bus: < bus229>; car: < car10, car2>; fire_hydrant: < >; person: < person19, person24, person36, person8>; stop_sign: < >
+bench: < bench213>; bus: < bus1, bus229>; car: < car10, car2>; person: < person19, person24, person36, person8>; stop_sign: < >
+bus: < >; car: < car10, car2>; person: < person19, person36, person8>; stop_sign: < >
+bicycle: < >; bus: < >; car: < car10, car123, car129, car2>; person: < person19, person36, person8>; stop_sign: < >
+bench: < >; bicycle: < >; bus: < >; car: < car10, car123, car129, car2>; person: < person19, person36, person8>; stop_sign: < >
+bench: < >; bus: < bus1, bus229>; car: < car10, car123, car2>; person: < person19, person36, person8>; stop_sign: < stop_sign18>
+bench: < bench213>; bicycle: < >; bus: < bus1>; car: < car10, car2>; person: < person19, person36, person8>; stop_sign: < stop_sign18>
+bicycle: < >; bus: < bus1>; car: < car10, car11, car123, car2>; person: < person19, person36, person8>; stop_sign: < stop_sign18>; truck: < >
+bicycle: < >; bus: < >; car: < car10, car123, car2>; person: < person19, person36, person8>; stop_sign: < stop_sign18>
+bicycle: < >; bus: < >; car: < car10, car123, car2>; person: < person19, person36, person8>; stop_sign: < stop_sign18>
+bicycle: < >; bus: < >; car: < car10, car123, car129, car2>; person: < person19, person36, person8>; stop_sign: < stop_sign18>; truck: < >
+bus: < bus1>; car: < car10, car123, car129, car2>; person: < person19, person36, person8>; stop_sign: < stop_sign18>
+bus: < bus1>; car: < car10, car123, car129, car2>; person: < person19, person36, person8>; stop_sign: < stop_sign18>
+bus: < bus1>; car: < car10, car123, car2>; person: < person19, person36, person8>; stop_sign: < stop_sign18>; truck: < >
+bus: < bus1>; car: < car10, car123, car2>; person: < person19, person36, person8>; stop_sign: < stop_sign18>
+bench: < >; bus: < bus1>; car: < car10, car123, car2>; person: < person19, person36, person8>; stop_sign: < stop_sign18>
+bus: < bus1>; car: < car10>; person: < person36, person8>; stop_sign: < stop_sign18>
+bench: < >; bus: < >; car: < car10, car123, car2>; person: < person36, person8>; stop_sign: < stop_sign18>
+bench: < >; bus: < >; car: < car10, car123, car2>; person: < person36, person8>; stop_sign: < stop_sign18>
+bench: < >; bus: < >; car: < car10, car123, car2>; person: < person36, person8>; stop_sign: < stop_sign18>; truck: < >
+bench: < >; bicycle: < >; bus: < >; car: < car10, car123, car129, car2>; person: < person36, person61, person8>; stop_sign: < stop_sign18>
+bicycle: < >; bus: < bus229>; car: < car10, car123, car129, car2>; person: < person36, person61, person8>; stop_sign: < >
+bicycle: < >; bus: < >; car: < car10, car123, car129, car2>; fire_hydrant: < >; person: < person36, person61, person8>; stop_sign: < >
+bench: < >; bicycle: < bicycle83>; bus: < >; car: < car10, car123, car129>; motorcycle: < >; person: < person36, person61, person8>; stop_sign: < >
+bicycle: < bicycle83>; bus: < bus229>; car: < car10, car123, car129, car2>; motorcycle: < >; person: < person36, person61, person8>
+bicycle: < bicycle83>; bus: < >; car: < car10, car123, car129, car2>; motorcycle: < >; person: < person36, person61, person8>; stop_sign: < stop_sign18>; truck: < >
+bus: < bus229>; car: < car10, car123, car129, car2>; motorcycle: < >; person: < person36, person61, person8>; stop_sign: < stop_sign18>
+bus: < bus229>; car: < car10, car129, car2>; motorcycle: < >; person: < person36, person61, person8>; stop_sign: < stop_sign18>
+bus: < bus229>; car: < car10, car2>; motorcycle: < motorcycle83>; person: < person24, person36, person61, person8>; stop_sign: < stop_sign18>
+bench: < >; bus: < bus229>; car: < car10, car2>; motorcycle: < motorcycle83>; person: < person24, person36, person61, person8>; stop_sign: < stop_sign18>; truck: < truck246>
+bus: < bus250>; car: < car10, car123, car2>; motorcycle: < motorcycle83>; person: < person36, person61, person8>; stop_sign: < stop_sign18>
+bus: < bus250>; car: < car10, car123, car2>; motorcycle: < motorcycle83>; person: < person36, person61, person8>; stop_sign: < stop_sign18>
+bus: < bus229, bus250>; car: < car10, car123>; motorcycle: < motorcycle83>; person: < person36, person61, person8>; stop_sign: < stop_sign18>
+bus: < bus250>; car: < car10, car123, car2>; motorcycle: < motorcycle83>; person: < person36, person61, person8>; stop_sign: < stop_sign18>
+bus: < bus250>; car: < car10, car123, car2>; motorcycle: < motorcycle83>; person: < person36, person61, person8>; stop_sign: < >
+bus: < bus1, bus250>; car: < car10, car123, car2>; motorcycle: < motorcycle83>; person: < person36, person61, person8>; stop_sign: < >
+bus: < bus1, bus250>; car: < car10, car123, car2>; motorcycle: < motorcycle83>; person: < person36, person61, person8>; stop_sign: < >; truck: < >
+bus: < bus250>; car: < car10, car123, car2>; motorcycle: < motorcycle83>; person: < person36, person61, person8>; stop_sign: < >; truck: < >
+bus: < bus250>; car: < car10, car123, car2>; motorcycle: < motorcycle83>; person: < person24, person36, person61, person8>; stop_sign: < >
+bus: < >; car: < car10, car123, car2>; motorcycle: < motorcycle83>; person: < person24, person36, person61, person8>; stop_sign: < >; truck: < >
+bus: < bus250>; car: < car10, car2>; fire_hydrant: < >; motorcycle: < motorcycle83>; person: < person36, person61, person8>; stop_sign: < >
+bus: < >; car: < car10, car2>; motorcycle: < motorcycle83>; person: < person36, person61, person8>; stop_sign: < stop_sign18>
+bus: < bus250>; car: < car10, car2>; motorcycle: < motorcycle83>; person: < person36, person61, person8>; stop_sign: < stop_sign18>
+bus: < bus250>; car: < car10, car2>; motorcycle: < motorcycle83>; person: < person36, person61, person8>; stop_sign: < stop_sign18>
+bus: < bus250>; car: < car10, car2>; motorcycle: < motorcycle83>; person: < person36, person61, person8>; stop_sign: < >
+bus: < >; car: < car10, car2>; fire_hydrant: < >; motorcycle: < motorcycle83>; person: < person36, person61, person8>; stop_sign: < stop_sign18>
+bus: < bus250>; car: < car10, car123, car2>; fire_hydrant: < >; motorcycle: < motorcycle83>; person: < person19, person36, person8>; stop_sign: < stop_sign18>
+bus: < >; car: < car10, car123, car129, car2>; motorcycle: < motorcycle83>; person: < person19, person36, person8>; stop_sign: < stop_sign18>
+bus: < bus250>; car: < car10, car123, car127, car2>; motorcycle: < motorcycle83>; person: < person19, person36, person8>; stop_sign: < stop_sign18>
+bus: < >; car: < car10, car123, car129, car2>; motorcycle: < motorcycle83>; person: < person19, person36, person8>; stop_sign: < stop_sign18>
+bus: < >; car: < car10, car123, car2>; motorcycle: < motorcycle83>; person: < person19, person36, person8>; stop_sign: < stop_sign18>
+bus: < >; car: < car10, car123, car2>; motorcycle: < motorcycle83>; person: < person19, person36>; stop_sign: < stop_sign18>
+bench: < >; bus: < >; car: < car10, car123, car2>; motorcycle: < motorcycle83>; person: < person19, person36, person8>; stop_sign: < stop_sign18>
+bus: < >; car: < car10, car2>; motorcycle: < motorcycle83>; person: < person19, person36, person8>; stop_sign: < stop_sign18>
+bus: < >; car: < car10, car123, car2>; motorcycle: < motorcycle83>; person: < person19, person36, person8>; stop_sign: < stop_sign18>
+bus: < >; car: < car10, car2>; motorcycle: < motorcycle83>; person: < person19, person24, person36, person8>; stop_sign: < >
+bus: < bus250>; car: < car10, car2>; motorcycle: < motorcycle83>; person: < person19, person24, person36, person8>; stop_sign: < stop_sign18>
+bus: < bus250>; car: < car10, car123, car127, car2>; motorcycle: < motorcycle83>; person: < person19, person36, person8>; stop_sign: < stop_sign18>
+bus: < bus250>; car: < car10, car127, car2>; motorcycle: < motorcycle83>; person: < person19, person24, person36, person8>; stop_sign: < >
+bus: < bus250>; car: < car10, car127, car2>; motorcycle: < motorcycle83>; person: < person19, person36, person8>; stop_sign: < >; truck: < >
+bus: < bus250>; car: < car10, car123, car127, car2>; motorcycle: < motorcycle83>; person: < person19, person36, person8>; stop_sign: < stop_sign18>
+bus: < bus250>; car: < car10, car2>; motorcycle: < motorcycle83>; person: < person19, person24, person36, person8>; stop_sign: < stop_sign18>
+bus: < bus250>; car: < car10, car123, car127, car2>; motorcycle: < motorcycle83>; person: < person19, person24, person36, person8>; stop_sign: < stop_sign18>
+bus: < >; car: < car10, car123, car127, car2>; motorcycle: < motorcycle83>; person: < person19, person24, person36, person61, person8>; stop_sign: < stop_sign18>
+bus: < >; car: < car10, car123, car127, car2>; motorcycle: < motorcycle83>; person: < person19, person36, person61, person8>; stop_sign: < stop_sign18>
+bus: < bus250>; car: < car10, car123, car2>; motorcycle: < motorcycle83>; person: < person19, person36, person8>; stop_sign: < stop_sign18>
+bus: < bus250>; car: < car10, car123, car127>; motorcycle: < motorcycle83>; person: < person19, person36>; stop_sign: < stop_sign18>
+bus: < >; car: < car10, car123, car127, car2>; motorcycle: < motorcycle83>; person: < person19, person36, person8>; stop_sign: < stop_sign18>
+bus: < >; car: < car10, car127, car2>; motorcycle: < motorcycle83>; person: < person19, person36, person8>; stop_sign: < stop_sign18>
+bus: < bus250>; car: < car10, car2>; motorcycle: < motorcycle83>; person: < person19, person36>; stop_sign: < stop_sign18>
+bus: < bus250>; car: < car10>; motorcycle: < motorcycle83>; person: < person19, person36, person8>; stop_sign: < stop_sign18>
+bus: < >; car: < car10, car2>; motorcycle: < motorcycle83>; person: < person19, person36, person61, person8>; stop_sign: < stop_sign18>
+bus: < bus250>; car: < car10, car2>; motorcycle: < motorcycle83>; person: < person19, person36, person61, person8>; stop_sign: < stop_sign18>
+bus: < >; car: < car10, car123, car2>; motorcycle: < motorcycle83>; person: < person19, person36, person61, person8>; stop_sign: < stop_sign18>; truck: < >
+bus: < bus250>; car: < car10, car123, car129, car2>; motorcycle: < motorcycle83>; person: < person19, person36, person8>; stop_sign: < stop_sign18>
+bus: < >; car: < car10, car123, car2>; motorcycle: < motorcycle83>; person: < person36, person61, person8>; stop_sign: < stop_sign18>; truck: < >
+bus: < >; car: < car10, car123, car2>; motorcycle: < motorcycle83>; person: < person61, person8>; stop_sign: < stop_sign18>
+bus: < >; car: < car10, car123, car2>; motorcycle: < motorcycle83>; person: < person61>; stop_sign: < stop_sign18>
+bus: < >; car: < car10, car2>; motorcycle: < motorcycle83>; person: < >; stop_sign: < stop_sign18>; truck: < >
+bus: < >; car: < car10, car123, car2>; motorcycle: < motorcycle83>; person: < >; stop_sign: < stop_sign18>
+bus: < bus250>; car: < car10, car123>; fire_hydrant: < >; motorcycle: < motorcycle83>; person: < >; stop_sign: < stop_sign18>
+bench: < >; bus: < >; car: < car10, car123, car2>; motorcycle: < motorcycle83>; person: < person61>; stop_sign: < stop_sign18>; truck: < >
+bench: < >; bus: < >; car: < car10>; motorcycle: < motorcycle83>; person: < person24>; stop_sign: < stop_sign18>; truck: < >
+bench: < bench213>; bus: < >; car: < car10, car2>; motorcycle: < motorcycle83>; person: < person61>; stop_sign: < stop_sign18>
+bench: < >; bus: < bus1, bus250>; car: < car10, car2>; motorcycle: < motorcycle83>; person: < person61>; stop_sign: < stop_sign18>
+bus: < >; car: < car10, car123, car2>; motorcycle: < motorcycle83>; person: < person61>; stop_sign: < stop_sign18>
+bus: < >; car: < car10>; motorcycle: < motorcycle83>; person: < person61>; stop_sign: < stop_sign18>
+bus: < bus250>; car: < car10>; motorcycle: < motorcycle83>; person: < person61>; stop_sign: < stop_sign18>; truck: < >
+bus: < bus1>; car: < car10, car2>; motorcycle: < motorcycle83>; person: < person36, person61>; stop_sign: < stop_sign18>; truck: < >
+bench: < >; bus: < bus1, bus250>; car: < car10, car123, car2>; motorcycle: < motorcycle83>; person: < person36, person61>; stop_sign: < stop_sign18>; truck: < >
+bus: < bus1, bus250>; car: < car10, car2>; motorcycle: < motorcycle83>; person: < person36, person61, person8>; stop_sign: < stop_sign18>; truck: < >
+bus: < bus1, bus250>; car: < car10>; motorcycle: < motorcycle83>; person: < person36, person61, person8>; stop_sign: < stop_sign18>; truck: < >
+bench: < >; bus: < bus1, bus250>; car: < car10>; motorcycle: < motorcycle83>; person: < person36, person61, person8>; stop_sign: < stop_sign18>; truck: < >
+bus: < bus1, bus250>; car: < car10>; motorcycle: < motorcycle83>; person: < person36, person61, person8>; stop_sign: < stop_sign18>; truck: < >
+bench: < >; bus: < bus1, bus229, bus250>; car: < car10>; motorcycle: < motorcycle83>; person: < person24, person36>; stop_sign: < stop_sign18>; truck: < >
+bench: < >; bus: < bus1, bus229, bus250>; car: < car10>; person: < person24, person36>; stop_sign: < stop_sign18>
+bus: < bus1, bus229, bus250>; car: < car10>; person: < person24, person36>; stop_sign: < stop_sign18>
+bus: < bus1, bus229, bus250>; car: < car10>; motorcycle: < >; person: < person24, person36>; stop_sign: < stop_sign18>
+bus: < bus1, bus250>; car: < car10>; person: < person24, person36>; stop_sign: < stop_sign18>
+bus: < bus1, bus229, bus250>; car: < car10, car2>; person: < >; stop_sign: < stop_sign18>
+bus: < bus1, bus229, bus250>; car: < car10, car2>; person: < person24, person36>; stop_sign: < stop_sign18>
+bus: < bus1, bus229, bus250>; car: < car10>; person: < person24, person36, person61>; stop_sign: < stop_sign18>
+bus: < bus1, bus229, bus250>; car: < car10>; person: < person24, person36>; stop_sign: < stop_sign18>
+bus: < bus1, bus229, bus250>; car: < car10, car2>; person: < person24, person36, person8>; stop_sign: < stop_sign18>
+bus: < bus1>; car: < car10>; person: < person36>; stop_sign: < stop_sign18>
+bus: < bus1>; car: < car10, car2>; person: < person36>; stop_sign: < >
+bus: < bus1>; car: < car10, car2>; person: < person24, person36>; stop_sign: < stop_sign18>
+bus: < bus1>; car: < car10, car2>; person: < person24, person36, person61>; stop_sign: < stop_sign18>; truck: < >
+bench: < >; bus: < bus1>; car: < car10>; person: < person36, person61>; stop_sign: < >
+bus: < bus1>; car: < car10>; person: < person36, person61>; stop_sign: < >
+bus: < bus1, bus229, bus250>; car: < car10>; fire_hydrant: < >; person: < person36, person61, person8>; stop_sign: < stop_sign18>
+bus: < bus1, bus229, bus250>; car: < car10>; person: < person36, person8>; stop_sign: < stop_sign18>
+bus: < bus1, bus250>; car: < car10>; person: < person36>; stop_sign: < >
+bus: < bus1, bus250>; car: < car10>; person: < person36, person61, person8>; stop_sign: < >
+bus: < bus1, bus250>; car: < car10>; person: < person61, person8>; stop_sign: < stop_sign18>
+bus: < bus250>; car: < car10>; person: < person8>; stop_sign: < stop_sign18>
+bus: < bus250>; car: < car10>; person: < person8>; stop_sign: < stop_sign18>
+bus: < bus250>; car: < car10>; person: < person24, person61, person8>; stop_sign: < stop_sign18>
+bench: < >; bus: < bus250>; car: < car10>; person: < person24, person8>; stop_sign: < stop_sign18>
+bench: < >; bus: < bus250>; car: < car10>; person: < person24, person8>; stop_sign: < >; truck: < >
+bus: < bus1, bus250>; car: < car10, car127>; person: < person24, person8>; stop_sign: < >
+bench: < >; bus: < bus1, bus250>; car: < car10>; person: < person24, person8>; stop_sign: < >; truck: < >
+bench: < >; bus: < bus1, bus250>; car: < car10>; person: < person24, person8>; stop_sign: < >
+bus: < bus1, bus229, bus250>; car: < car10>; person: < person24, person8>; stop_sign: < stop_sign18>
+bus: < bus1, bus250>; car: < car10>; person: < person24, person8>; stop_sign: < stop_sign18>
+bus: < bus1, bus250>; car: < car10>; person: < person24, person64>; stop_sign: < >
+bus: < bus1, bus250>; car: < car10>; person: < person24, person64>; stop_sign: < >
+bus: < bus1>; car: < car10>; person: < person24, person64>; stop_sign: < stop_sign18>
+bus: < bus1, bus250>; car: < car10>; person: < person24, person64>; stop_sign: < stop_sign18>
+bus: < bus1, bus250>; car: < car10>; person: < person24, person64>; stop_sign: < >
+bench: < >; bus: < bus1, bus229>; car: < car10>; person: < person24>; stop_sign: < stop_sign18>
+bus: < bus1, bus250>; car: < car10>; person: < person24, person8>; stop_sign: < stop_sign18>
+bus: < bus1, bus229, bus250>; car: < car10>; person: < person24, person8>; stop_sign: < stop_sign18>
+bench: < >; bus: < bus1, bus250>; car: < car10>; person: < person24, person8>; stop_sign: < stop_sign18>
+bus: < bus1, bus250>; car: < car10>; person: < person24, person8>; stop_sign: < >
+bus: < bus1, bus250>; car: < car10>; person: < person24, person8>; stop_sign: < >
+bus: < bus1, bus250>; car: < car10>; person: < person24, person64, person8>; stop_sign: < >
+bus: < bus1, bus250>; car: < car10>; motorcycle: < >; person: < person24, person64, person8>; stop_sign: < >
+bus: < bus1, bus250>; car: < car10>; person: < person24, person64, person8>
+bus: < bus1, bus250>; car: < car10, car127>; person: < person24, person64, person8>; stop_sign: < >
+bench: < >; bus: < bus1, bus229, bus250>; car: < car10, car127>; motorcycle: < >; person: < person24, person64, person8>; stop_sign: < >
+bus: < bus1, bus229, bus250>; car: < car10, car127>; motorcycle: < >; person: < person24, person64, person8>
+bus: < bus1, bus229, bus250>; car: < car10, car127>; person: < person24, person64, person8>; stop_sign: < >
+bus: < bus1, bus229, bus250, bus342>; car: < car10, car127>; motorcycle: < >; person: < person24, person61, person64, person8>; stop_sign: < stop_sign18>
+bus: < bus1, bus229, bus250, bus342>; car: < car10, car127>; person: < person24, person8>
+bus: < bus1, bus229, bus342>; car: < car10, car127>; person: < person24, person8>
+bus: < bus1, bus229, bus250, bus342>; car: < car10, car127>; person: < person24, person8>
+bus: < bus229, bus250, bus342>; car: < car10, car127>; person: < person24, person8>
+bus: < bus1, bus229, bus250>; car: < car10>; motorcycle: < >; person: < person24>
+bus: < bus1, bus229, bus250>; car: < car10, car127>; motorcycle: < >; person: < person24>; stop_sign: < >
+bus: < bus1, bus229, bus250>; car: < car10>; motorcycle: < >; person: < person24, person67, person8>
+bench: < >; bus: < bus1, bus229, bus250>; car: < car10>; motorcycle: < motorcycle83>; person: < person24, person67, person75>
+bench: < >; bus: < bus1, bus229, bus250>; car: < car10>; motorcycle: < motorcycle83>; person: < person24, person67>; stop_sign: < >
+bus: < bus1, bus229>; car: < car10>; motorcycle: < motorcycle83>; person: < person24, person67, person8>
+bus: < bus1, bus229, bus250>; car: < car10>; motorcycle: < motorcycle83>; person: < person24, person67, person8>; stop_sign: < >
+bus: < bus1, bus229, bus250>; car: < car10>; motorcycle: < >; person: < person24, person67>
+bus: < bus1, bus229, bus250>; car: < car10>; motorcycle: < motorcycle83>; person: < person24, person67, person75>
+bus: < bus229, bus250>; car: < car10>; motorcycle: < motorcycle83>; person: < person24, person61, person75, person84>
+bus: < bus229, bus250>; car: < car10>; motorcycle: < motorcycle83>; person: < person24, person61, person67, person75, person84>
+bus: < bus1, bus229, bus250>; car: < car10>; motorcycle: < motorcycle83>; person: < person24, person67, person75, person84>
+bus: < bus1, bus229>; car: < car10>; motorcycle: < motorcycle83>; person: < person24, person67, person84>
+bus: < bus229>; car: < car10>; motorcycle: < motorcycle83>; person: < person24, person67, person8>
+bus: < bus1, bus229>; car: < car10>; motorcycle: < motorcycle83>; person: < person24>
+bus: < bus1, bus229>; car: < car10>; motorcycle: < motorcycle83>; person: < person24, person67, person8, person84>
+bus: < bus1, bus229, bus250>; car: < car10, car354>; motorcycle: < motorcycle83>; person: < person24, person67, person8, person84>
+bus: < bus229, bus250>; car: < car10, car354, car361>; person: < person24, person67, person8>
+bus: < bus229, bus250>; car: < car10, car361>; motorcycle: < >; person: < person24, person67, person8>
+bus: < bus1, bus229, bus250>; car: < car10>; motorcycle: < motorcycle83>; person: < person24, person61, person75, person8>
+bus: < bus1, bus229, bus250>; car: < car10, car361>; motorcycle: < motorcycle83>; person: < person24, person61, person75, person8>
+bus: < bus1, bus229, bus250>; car: < car10, car361>; motorcycle: < motorcycle83>; person: < person24, person75, person8>
+bus: < bus1, bus229, bus250>; car: < car10, car361>; motorcycle: < motorcycle83>; person: < person24, person75, person8>
+bus: < bus1, bus229, bus250>; car: < car10, car354>; motorcycle: < motorcycle83>; person: < person24, person365, person61, person75, person8>
+bus: < bus1, bus229, bus250>; car: < car10, car354>; motorcycle: < motorcycle83>; person: < person24, person365, person8, person84>
+bus: < bus1, bus229, bus250>; car: < car10, car354>; motorcycle: < motorcycle83>; person: < person24, person365, person8, person84>
+bus: < bus1, bus229, bus250>; car: < car10, car361>; motorcycle: < motorcycle83>; person: < person24, person8, person84>
+bus: < bus1, bus229, bus250>; car: < car10, car361>; motorcycle: < motorcycle83>; person: < person24, person8>
+bus: < bus1, bus229, bus250>; car: < car10>; motorcycle: < motorcycle83>; person: < person24, person75>
+bus: < bus1, bus229, bus250>; car: < car10>; motorcycle: < motorcycle83>; person: < person24, person75>
+bus: < bus1, bus229>; car: < car10>; motorcycle: < motorcycle83>; person: < person24>; stop_sign: < >
+bus: < bus1, bus229>; car: < car10, car354>; motorcycle: < motorcycle83>; person: < person24, person365>; stop_sign: < >
+bus: < bus1, bus250>; car: < car10, car354>; motorcycle: < motorcycle83>; person: < person24, person365, person8>; stop_sign: < >
+bus: < bus1, bus250>; car: < car10, car354>; motorcycle: < motorcycle83>; person: < person24, person365, person370, person8>; stop_sign: < >
+bus: < bus1, bus250>; car: < car10, car354>; motorcycle: < motorcycle83>; person: < person24, person365, person370, person75, person8>; stop_sign: < >
+bus: < bus1, bus250, bus342>; car: < car10, car354>; motorcycle: < motorcycle83>; person: < person24, person365, person370, person75, person8>; stop_sign: < >
+bus: < bus1, bus250, bus342>; car: < car10>; motorcycle: < motorcycle83>; person: < person24, person365, person370, person8>; stop_sign: < >; traffic_light: < >
+bus: < bus1, bus229, bus250, bus342>; car: < car10>; motorcycle: < motorcycle83>; person: < person24, person365, person370, person67, person8>; stop_sign: < >; truck: < >
+bus: < bus1, bus229, bus250, bus342>; car: < car10, car354>; motorcycle: < motorcycle83>; person: < person24, person365, person370, person374, person67, person75, person8>; stop_sign: < >
+bus: < bus1, bus229, bus250, bus342>; car: < car10>; motorcycle: < motorcycle83>; person: < person24, person365, person370, person374, person67>; truck: < >
+bus: < bus1, bus229, bus250, bus342>; car: < car10>; motorcycle: < motorcycle83>; person: < person24, person365, person370>; stop_sign: < >
+bus: < bus1, bus229, bus250, bus342>; car: < car10>; motorcycle: < motorcycle83>; person: < person24, person365, person370, person75>; stop_sign: < >
+bus: < bus1, bus229, bus250, bus342>; car: < car10>; person: < person24, person365, person370>; stop_sign: < >; truck: < >
+bus: < bus1, bus229, bus250, bus342>; car: < >; motorcycle: < motorcycle83>; person: < person24, person365, person370, person67>; stop_sign: < >; truck: < >
+bus: < bus1, bus229, bus250, bus342>; car: < >; motorcycle: < motorcycle83>; person: < person24, person365, person370, person67, person75>; stop_sign: < >; truck: < >
+bus: < bus1, bus229, bus250>; car: < >; motorcycle: < motorcycle83>; person: < person24, person365, person370, person374, person75>; stop_sign: < >
+bus: < bus1, bus250>; car: < car361>; motorcycle: < motorcycle83>; person: < person24, person365, person370, person374, person75>; stop_sign: < >
+bus: < bus1, bus229, bus250>; car: < >; motorcycle: < motorcycle83>; person: < person24, person365, person370, person75, person84>; stop_sign: < >; truck: < >
+bus: < bus1, bus229, bus250>; car: < >; motorcycle: < motorcycle83>; person: < person24, person365, person370, person374, person75>; stop_sign: < >; truck: < >
+bus: < bus1, bus229, bus250>; car: < car354>; motorcycle: < motorcycle83>; person: < person24, person365, person370, person374, person75>; truck: < >
+bus: < bus1, bus229, bus250>; car: < car354>; handbag: < >; motorcycle: < motorcycle83>; person: < person24, person365, person370, person75>; stop_sign: < >; truck: < >
+bus: < bus1, bus250, bus342>; car: < car10, car354>; motorcycle: < motorcycle83>; person: < person24, person365, person370, person374, person75>; stop_sign: < >; truck: < >
+bus: < bus1, bus229, bus250, bus342>; car: < car10, car354>; motorcycle: < motorcycle83>; person: < person24, person365, person370, person374, person75>; truck: < >
+bus: < bus1, bus250>; car: < car10, car354>; motorcycle: < motorcycle83>; person: < person24, person365, person370, person374, person67, person75, person8>; stop_sign: < >; truck: < >
+bus: < bus1, bus229, bus250>; car: < car354>; motorcycle: < motorcycle83>; person: < person24, person365, person75, person8>; stop_sign: < >; truck: < >
+bus: < bus1>; car: < car354>; motorcycle: < motorcycle83>; person: < person24, person365, person374, person75>; stop_sign: < >; truck: < >
+bus: < bus1, bus250>; car: < car354>; motorcycle: < motorcycle83>; person: < person24, person365, person370, person374, person75, person8>; stop_sign: < >; truck: < >
+bus: < bus1, bus250>; car: < car354>; motorcycle: < motorcycle83>; person: < person24, person365, person370, person374, person393, person75>; stop_sign: < >; truck: < >
+bus: < bus1, bus250>; car: < car10, car361>; motorcycle: < motorcycle83>; person: < person24, person365, person374, person393, person75>; stop_sign: < >; truck: < >
+bus: < bus1, bus229, bus250>; car: < car354, car361>; motorcycle: < motorcycle83>; person: < person24, person365, person374, person75>; potted_plant: < >; stop_sign: < stop_sign18>; truck: < >
+bus: < bus1, bus250>; car: < car354, car361>; motorcycle: < motorcycle83>; person: < person24, person365, person374, person393, person75>; potted_plant: < >; stop_sign: < stop_sign18>; truck: < >
+bus: < bus1, bus250>; car: < car361>; motorcycle: < motorcycle83>; person: < person24, person365, person75>; stop_sign: < stop_sign18>; truck: < >
+bus: < bus1, bus250>; car: < car361>; motorcycle: < motorcycle83>; person: < person24, person365, person374, person393, person75, person8, person84>; stop_sign: < stop_sign18>; truck: < >
+bus: < bus1, bus250>; car: < car10, car361>; motorcycle: < motorcycle83>; person: < person24, person365, person374, person393, person75, person8, person84>; stop_sign: < stop_sign18>; truck: < >
+bus: < bus1, bus250>; car: < >; motorcycle: < motorcycle83>; person: < person24, person365, person374, person75>; stop_sign: < stop_sign18>; truck: < >
+bus: < bus1, bus229, bus250>; car: < car10>; motorcycle: < motorcycle83>; person: < person24, person365, person370, person393, person67, person75>; stop_sign: < stop_sign18>; truck: < >
+bus: < bus1, bus229, bus250>; car: < car10>; motorcycle: < motorcycle83>; person: < person24, person365, person370, person393, person67, person75, person8>; stop_sign: < stop_sign18>; truck: < >
+bus: < bus229, bus250>; car: < car10>; motorcycle: < motorcycle83>; person: < person24, person365, person374, person393, person75, person8>; stop_sign: < stop_sign18>; truck: < >
+bus: < bus1, bus229, bus250>; car: < car10>; motorcycle: < motorcycle83>; person: < person24, person365, person374, person393, person75, person8>; stop_sign: < stop_sign18>; truck: < >
+bus: < bus1, bus250>; car: < car10>; motorcycle: < motorcycle83>; person: < person24, person365, person393, person75>; stop_sign: < stop_sign18>; truck: < >
+bus: < bus1, bus250>; car: < >; motorcycle: < motorcycle83>; person: < person24, person365, person393, person75>; stop_sign: < stop_sign18>; truck: < >
+bus: < bus1, bus229>; car: < car354>; motorcycle: < motorcycle83>; person: < person24, person365, person370, person374, person393, person75, person8>; stop_sign: < stop_sign18>; truck: < >
+bus: < bus1, bus250>; car: < >; motorcycle: < motorcycle83>; person: < person24, person365, person370, person374, person393, person75>; stop_sign: < stop_sign18>; truck: < >
+bus: < bus1, bus250>; car: < >; motorcycle: < motorcycle83>; person: < person24, person365, person370, person374, person393, person75>; stop_sign: < stop_sign18>; truck: < >
+bus: < bus1, bus250>; car: < >; motorcycle: < motorcycle83>; person: < person24, person365, person370, person393, person75, person8, person84>; stop_sign: < stop_sign18>; truck: < >
+bus: < bus250>; car: < >; motorcycle: < motorcycle83>; person: < person24, person365, person370, person374, person393, person75, person84>; stop_sign: < stop_sign18>; truck: < >
+bus: < >; car: < >; motorcycle: < motorcycle83>; person: < person24, person365, person370, person374, person393, person67, person75, person84>; stop_sign: < stop_sign18>; truck: < >
+bench: < >; bus: < bus342>; car: < car354>; motorcycle: < motorcycle83>; person: < person24, person365, person370, person374, person393, person67, person75>; stop_sign: < stop_sign18>; truck: < >
+bus: < bus1, bus250, bus342>; car: < car10>; motorcycle: < motorcycle83>; person: < person24, person365, person370, person374, person393, person67, person75, person8>; stop_sign: < stop_sign18>
+bus: < bus250, bus342>; car: < car10>; motorcycle: < motorcycle83>; person: < person24, person365, person370, person374, person393, person67, person75>; stop_sign: < stop_sign18>
+bus: < bus1, bus250>; car: < car10>; motorcycle: < motorcycle83>; person: < person24, person365, person370, person374, person393, person67, person75, person84>; stop_sign: < stop_sign18>
+bench: < >; bus: < bus250>; car: < car10>; motorcycle: < motorcycle83>; person: < person24, person365, person370, person374, person393, person67, person75, person8, person84>; stop_sign: < stop_sign18>
+bicycle: < >; bus: < bus1, bus342>; car: < car10>; motorcycle: < motorcycle83>; person: < person24, person365, person370, person374, person393, person67, person75, person8>; stop_sign: < stop_sign18>
+bicycle: < >; bus: < >; car: < car10>; motorcycle: < motorcycle83>; person: < person24, person365, person370, person374, person393, person67, person75, person8>; stop_sign: < >; truck: < >
+bicycle: < >; bus: < bus250>; car: < car10>; motorcycle: < motorcycle83>; person: < person365, person370, person374, person393, person67, person75, person8>; stop_sign: < >; truck: < >
+bus: < bus250, bus342>; car: < car10>; motorcycle: < motorcycle83>; person: < person24, person370, person374, person67, person8>; stop_sign: < >; truck: < >
+bus: < bus250, bus342>; car: < car10>; motorcycle: < motorcycle83>; person: < person24, person370, person374>; stop_sign: < >
+bus: < bus250, bus342>; car: < car10>; motorcycle: < motorcycle83>; person: < person24, person370, person374>; stop_sign: < >
+bus: < bus250, bus342>; car: < car361>; motorcycle: < motorcycle83>; person: < person24, person370, person374>; stop_sign: < >
+bus: < bus250, bus342>; car: < car10, car361>; person: < person24, person370, person374, person67>; stop_sign: < >
+bus: < >; car: < >; motorcycle: < motorcycle83>; person: < person24, person370, person374>; stop_sign: < >
+bus: < >; car: < >; motorcycle: < motorcycle83>; person: < person24, person370, person374, person67>; stop_sign: < >
+bus: < bus250>; car: < car10>; motorcycle: < motorcycle83>; person: < person24, person374, person67>; stop_sign: < >
+bicycle: < >; bus: < bus1, bus250>; car: < car10>; motorcycle: < motorcycle83>; person: < person24, person374, person75>
+bicycle: < >; bus: < bus1>; car: < car10>; motorcycle: < motorcycle83>; person: < person24, person374, person67, person75>; stop_sign: < >
+bicycle: < >; bus: < >; car: < car10, car361>; motorcycle: < motorcycle83>; person: < person24, person365, person374, person67, person75, person84>; stop_sign: < >
+bus: < bus250>; car: < car10, car361>; motorcycle: < motorcycle83>; person: < person24, person365, person374, person67, person75, person84>; stop_sign: < >
+bus: < bus250>; car: < car10>; motorcycle: < motorcycle83>; person: < person24, person365, person67, person75, person84>; stop_sign: < >
+bus: < bus1, bus250>; car: < car10>; motorcycle: < motorcycle83>; person: < person24, person365, person374, person67, person75, person84>; stop_sign: < >
+bus: < bus229>; car: < car10>; motorcycle: < >; person: < person24, person365, person374, person67, person75, person84>; stop_sign: < >
+bus: < bus229, bus250>; car: < car10, car407>; motorcycle: < motorcycle83>; person: < person24, person365, person374, person67, person84>; stop_sign: < >
+bus: < bus229>; car: < car361>; motorcycle: < motorcycle83>; person: < person24, person365, person374, person67, person75, person84>
+bus: < bus229, bus250>; car: < car10>; motorcycle: < motorcycle83>; person: < person24, person374, person67, person75, person84>; stop_sign: < >
+bus: < bus250>; car: < car10, car407>; motorcycle: < motorcycle83>; person: < person24, person365, person374, person67, person75, person84>; stop_sign: < >
+bus: < bus250>; car: < car361, car407>; motorcycle: < motorcycle83>; person: < person24, person365, person374, person67, person75, person84>; stop_sign: < >
+bus: < bus250>; car: < car10, car361, car407>; motorcycle: < motorcycle83>; person: < person24, person365, person374, person67, person75, person84>; stop_sign: < >
+bench: < >; bus: < bus1, bus250>; car: < car10, car407>; motorcycle: < motorcycle83>; person: < person24, person365, person374, person67, person75, person84>; stop_sign: < >
+bench: < >; bus: < >; car: < car10, car361>; person: < person24, person374, person67, person75, person84>; stop_sign: < >
+bus: < >; car: < car10, car361>; motorcycle: < >; person: < person24, person365, person374, person75, person84>; stop_sign: < >
+bus: < bus1>; car: < car10, car361>; person: < person24, person374, person84>
+bench: < >; bus: < bus250>; car: < car10, car361>; person: < person24, person374, person67, person84>; stop_sign: < >
+bench: < >; bus: < bus250, bus342>; car: < car10, car361>; person: < person24, person374, person393, person67, person8, person84>; stop_sign: < >
+bench: < >; bus: < bus229, bus250, bus342>; car: < car10, car407>; person: < person24, person374, person393, person67, person8, person84>; stop_sign: < >
+bench: < >; bus: < bus250, bus342>; car: < car10, car361>; person: < person24, person374, person393, person67, person8, person84>; stop_sign: < >
+bench: < >; bus: < bus250>; car: < car10, car361>; person: < person24, person365, person370, person374, person393, person67, person8, person84>; stop_sign: < >
+bench: < >; bus: < bus250, bus342>; car: < car10, car407>; person: < person24, person370, person374, person393, person67, person8, person84>; stop_sign: < >
+bench: < >; bus: < bus250>; car: < car10, car407>; motorcycle: < >; person: < person24, person365, person370, person374, person393, person67, person84>; stop_sign: < >
+bench: < >; bus: < bus250, bus342>; car: < car10>; motorcycle: < >; person: < person24, person365, person370, person374, person67, person84>; stop_sign: < >
+bench: < >; bus: < >; car: < car10, car361>; person: < person24, person365, person374, person67, person84>; stop_sign: < >
+bench: < >; bus: < bus250>; car: < car361>; person: < person24, person365, person374, person67, person8, person84>; stop_sign: < >
+bus: < bus250>; car: < car361>; motorcycle: < >; person: < person24, person365, person370, person374, person67, person8, person84>; stop_sign: < >
+bus: < bus250>; car: < car407>; motorcycle: < motorcycle83>; person: < person24, person365, person374, person67, person75, person84>; stop_sign: < >
+bench: < >; bus: < >; car: < car361>; motorcycle: < motorcycle83>; person: < person24, person365, person374, person67, person75, person8, person84>; stop_sign: < >
+bus: < >; car: < >; motorcycle: < motorcycle83>; person: < person24, person365, person374, person393, person67, person75, person8, person84>; stop_sign: < >
+bus: < bus1>; car: < car361>; motorcycle: < motorcycle83>; person: < person24, person365, person374, person393, person67, person75, person84>; stop_sign: < >
+bus: < bus1>; car: < car361>; motorcycle: < motorcycle83>; person: < person24, person365, person374, person393, person67, person75, person84>; stop_sign: < >
+bus: < bus250>; car: < >; motorcycle: < motorcycle83>; person: < person24, person365, person374, person393, person67, person75, person84>; stop_sign: < >; truck: < >
+bench: < >; bus: < bus250>; car: < >; motorcycle: < motorcycle83>; person: < person24, person365, person374, person393, person67, person75, person84>; stop_sign: < >
+bus: < >; car: < >; motorcycle: < motorcycle83>; person: < person24, person365, person374, person393, person67, person75, person8, person84>; stop_sign: < >
+bus: < bus250>; car: < car450>; motorcycle: < motorcycle83>; person: < person24, person374, person393, person67, person75, person8, person84>; stop_sign: < >
+bus: < bus250>; car: < car450>; motorcycle: < motorcycle83>; person: < person24, person365, person374, person393, person67, person75, person8, person84>
+bus: < bus250>; car: < car450>; motorcycle: < motorcycle83>; person: < person24, person374, person393, person67, person75, person84>; stop_sign: < >
+bus: < bus250>; car: < car450>; motorcycle: < motorcycle83>; person: < person24, person370, person374, person393, person67, person75, person84>; stop_sign: < >
+bus: < bus250>; car: < car407>; motorcycle: < motorcycle83>; person: < person24, person365, person370, person374, person393, person67, person75, person8, person84>; stop_sign: < >; truck: < >
+bench: < >; bus: < bus250>; car: < car10, car407>; motorcycle: < motorcycle83>; person: < person24, person365, person370, person374, person393, person67, person75, person8, person84>; stop_sign: < >; truck: < >
+bus: < >; car: < car407>; motorcycle: < motorcycle83>; person: < person24, person365, person370, person374, person393, person84>; stop_sign: < >; truck: < >
+bus: < >; car: < car407, car450>; motorcycle: < motorcycle83>; person: < person24, person365, person374, person75, person8>; stop_sign: < >; truck: < >
+bus: < >; car: < car361, car407>; motorcycle: < motorcycle83>; person: < person24, person374, person8>; stop_sign: < >
+bus: < >; car: < car361>; motorcycle: < motorcycle83>; person: < person24, person365, person370, person374, person393, person67, person75, person8>; stop_sign: < >
+bus: < bus250>; car: < car361, car407>; motorcycle: < motorcycle83>; person: < person24, person365, person374, person393, person8>; stop_sign: < >
+bus: < >; car: < car10, car361, car407>; motorcycle: < motorcycle83>; person: < person24, person365, person374, person67, person75, person8>; stop_sign: < >
+bus: < bus250>; car: < car361, car407>; motorcycle: < motorcycle83>; person: < person24, person365, person374, person393, person75, person8>; stop_sign: < >
+bus: < bus1>; car: < car361, car407>; motorcycle: < motorcycle83>; person: < person24, person365, person393, person75, person84>; stop_sign: < >
+bus: < bus1>; car: < car407>; motorcycle: < motorcycle83>; person: < person24, person365, person75, person8, person84>; stop_sign: < >
+bus: < >; car: < >; motorcycle: < motorcycle83>; person: < person24, person365, person374, person75, person8, person84>; stop_sign: < >
+bus: < >; car: < >; motorcycle: < motorcycle83>; person: < person24, person365, person374, person67, person75, person8, person84>; stop_sign: < >
+bus: < >; car: < >; motorcycle: < motorcycle83>; person: < person24, person365, person374, person67, person75, person8, person84>; stop_sign: < >
+bench: < >; bus: < bus1>; car: < >; motorcycle: < motorcycle83>; person: < person24, person365, person374, person67, person75, person8, person84>; stop_sign: < >
+bench: < >; bus: < >; car: < car361, car407>; motorcycle: < motorcycle83>; person: < person24, person365, person374, person75, person84>; stop_sign: < >
+bus: < >; car: < car361, car407>; motorcycle: < motorcycle83>; person: < person24, person365, person374, person75, person84>; stop_sign: < >; truck: < >
+bus: < bus1>; car: < >; motorcycle: < motorcycle83>; person: < person24, person365, person374, person75, person84>; stop_sign: < >
+bench: < >; bus: < >; car: < car407>; motorcycle: < motorcycle83>; person: < person24, person365, person374, person75, person84>; stop_sign: < >
+bus: < bus1>; car: < car407>; motorcycle: < motorcycle83>; person: < person24, person365, person370, person374, person393, person472, person75, person84>; stop_sign: < >
+bus: < >; car: < car10, car407>; motorcycle: < motorcycle83>; person: < person24, person365, person370, person374, person393, person472, person75, person84>; stop_sign: < >
+bus: < bus1>; car: < car10, car407>; motorcycle: < motorcycle83>; person: < person24, person365, person370, person374, person472, person67, person75, person84>; stop_sign: < >
+bus: < >; car: < car10>; motorcycle: < motorcycle83>; person: < person24, person365, person370, person374, person75, person84>; stop_sign: < >
+bus: < bus1>; car: < car407>; motorcycle: < motorcycle83>; person: < person24, person365, person374, person75, person84>; stop_sign: < stop_sign478>; truck: < >
+bus: < bus1>; car: < car10, car407, car450>; motorcycle: < motorcycle83>; person: < person24, person365, person374, person75, person84>; stop_sign: < stop_sign478>; truck: < >
+bus: < bus1, bus250>; car: < car10, car407>; motorcycle: < motorcycle83>; person: < person24, person365, person370, person374, person75, person84>; stop_sign: < stop_sign478>; truck: < >
+bus: < bus1, bus250>; car: < car10, car407>; motorcycle: < motorcycle83>; person: < person24, person365, person370, person374, person472, person75, person84>; stop_sign: < stop_sign478>
+bus: < bus1, bus250>; car: < car10, car361>; motorcycle: < motorcycle83>; person: < person24, person370, person374, person472, person67, person75, person84>; stop_sign: < stop_sign478>; truck: < >
+bus: < bus1>; car: < car10, car361>; motorcycle: < motorcycle83>; person: < person24, person365, person374, person472, person75, person84>; stop_sign: < stop_sign478>
+bus: < bus1>; car: < car10, car407>; motorcycle: < motorcycle83>; person: < person24, person365, person370, person374, person472, person75, person84>; stop_sign: < stop_sign478>
+bus: < bus1>; car: < car10, car407>; motorcycle: < motorcycle83>; person: < person24, person365, person370, person374, person472, person75, person84>; stop_sign: < stop_sign478>; truck: < >
+bus: < bus250>; car: < car10, car407>; motorcycle: < motorcycle83>; person: < person24, person365, person370, person374, person472, person75, person84>; stop_sign: < stop_sign478>
+bus: < bus1, bus250>; car: < car10, car407>; motorcycle: < motorcycle83>; person: < person24, person365, person370, person374, person472, person75, person84>; stop_sign: < stop_sign478>
+bench: < >; bus: < bus250>; car: < car10, car407>; person: < person24, person365, person370, person374, person472, person75, person84>; stop_sign: < stop_sign478>
+bench: < >; bus: < bus250>; car: < car10, car407>; motorcycle: < >; person: < person24, person365, person370, person374, person472, person75, person84>; stop_sign: < stop_sign478>; truck: < >
+bus: < bus250>; car: < car10, car407>; motorcycle: < motorcycle83>; person: < person24, person365, person370, person374, person472, person75, person84>; stop_sign: < stop_sign478>
+bench: < >; bus: < bus1, bus250>; car: < car10>; motorcycle: < >; person: < person24, person365, person370, person374, person75, person84>; stop_sign: < stop_sign478>
+bench: < >; bus: < bus250>; car: < car10, car407>; person: < person24, person365, person370, person374, person75, person84>; stop_sign: < stop_sign478>
+bench: < >; bus: < bus250>; car: < car10, car407, car450>; handbag: < >; person: < person24, person365, person370, person374, person75, person84>; stop_sign: < stop_sign478>
+bus: < bus250>; car: < car10, car407>; fire_hydrant: < >; handbag: < >; person: < person24, person370, person374, person84>; stop_sign: < stop_sign478>
+bus: < bus1, bus250>; car: < car10, car350, car361>; handbag: < >; person: < person24, person370, person374, person393, person84>; stop_sign: < stop_sign478>
+bus: < bus1, bus250>; car: < car10, car407>; handbag: < >; person: < person24, person365, person370, person374, person393, person84>; stop_sign: < stop_sign478>
+bus: < bus250>; car: < car10, car407, car450>; handbag: < >; person: < person24, person365, person370, person374, person84>; stop_sign: < stop_sign478>
+bus: < bus250>; car: < car10, car407, car450>; handbag: < >; person: < person24, person370, person374, person75, person84>; stop_sign: < stop_sign478>
+bus: < bus1, bus250>; car: < car10, car407, car450>; person: < person24, person370, person374, person75, person84>; stop_sign: < stop_sign478>
+bench: < >; bus: < bus250>; car: < car10, car407, car450>; person: < person24, person365, person370, person374, person75, person84>; stop_sign: < stop_sign478>
+bus: < bus250>; car: < car10, car407, car450>; fire_hydrant: < >; person: < person24, person370, person374>; stop_sign: < stop_sign478>
+bench: < >; bus: < bus250>; car: < car10, car407>; person: < person24, person370, person374, person75>; stop_sign: < stop_sign478>
+bench: < >; bus: < bus250>; car: < car10, car407>; person: < person24, person370, person374, person75>; stop_sign: < stop_sign478>
+bench: < >; bus: < bus1, bus250>; car: < car10, car407>; person: < person24, person365, person370, person374, person75>; stop_sign: < stop_sign478>
+bench: < >; bus: < bus1>; car: < car10>; person: < person24, person370, person374, person75>; stop_sign: < stop_sign478>
+bench: < >; bus: < bus1, bus250>; car: < car10>; person: < person24, person365, person374, person75>; stop_sign: < stop_sign478>
+bench: < >; bus: < bus1, bus250>; car: < car10, car407>; person: < person24, person365, person370, person374, person75>; stop_sign: < stop_sign478>
+bench: < >; bicycle: < >; bus: < bus1>; car: < car10>; person: < person24, person370, person374, person75>; stop_sign: < stop_sign478>
+bench: < bench213, bench350>; bicycle: < >; bus: < bus1>; car: < car10>; person: < person24, person370, person374, person75>; stop_sign: < stop_sign478>
+bench: < bench213, bench350>; bus: < bus1>; car: < car10>; person: < person24, person75>; stop_sign: < stop_sign478>
+bench: < >; bus: < bus250>; car: < car10>; fire_hydrant: < >; person: < person24, person370, person374, person67, person75>; stop_sign: < stop_sign478>
+bench: < >; bus: < bus1, bus250>; car: < car10>; person: < person24, person370, person67, person75>; stop_sign: < stop_sign478>
+bench: < >; bus: < bus1, bus250>; car: < car10>; person: < person24, person365, person370, person374, person75>; stop_sign: < stop_sign478>
+bench: < bench213>; bus: < bus1, bus250>; car: < car10>; person: < person24, person370, person374, person67, person75>; stop_sign: < stop_sign478>
+bench: < >; bus: < bus1, bus229, bus250>; car: < car10, car407>; person: < person24, person370, person374, person67, person75>; stop_sign: < stop_sign478>
+bench: < bench350>; bus: < bus1, bus250>; car: < car10, car407>; person: < person24, person374, person67, person75>; stop_sign: < stop_sign478>
+bench: < bench350>; bicycle: < >; bus: < bus1, bus250>; car: < car10, car407>; person: < person24, person370, person374, person67, person75>; stop_sign: < stop_sign478>
+bench: < >; bus: < bus1, bus250>; car: < car10, car407>; person: < person24, person370, person374, person67, person75>; stop_sign: < stop_sign478>
+bench: < bench350>; bus: < bus250>; car: < car10, car407>; person: < person24, person365, person370, person374, person393, person472, person67, person75>; stop_sign: < stop_sign478>
+bench: < bench350>; bus: < bus250>; car: < car10>; person: < person24, person365, person370, person374, person393, person472, person67, person75>; stop_sign: < stop_sign478>
+bench: < >; bus: < bus1, bus250>; car: < car10>; person: < person24, person365, person370, person374, person472, person75>; stop_sign: < stop_sign478>
+bench: < >; bicycle: < >; bus: < bus1, bus250>; car: < car10>; person: < person24, person365, person370, person374, person393, person472>; stop_sign: < stop_sign478>
+bench: < >; bus: < bus250>; car: < car10>; person: < person24, person365, person370, person374, person393, person472, person67, person75>
+bench: < >; bus: < bus1, bus250>; car: < car10>; handbag: < >; person: < person24, person365, person370, person374, person393, person472, person67, person75>; stop_sign: < >
+bench: < >; bus: < bus1, bus229, bus250>; car: < car10>; person: < person24, person365, person370, person374, person393, person472, person513, person67, person75>; stop_sign: < >
+bench: < >; bus: < bus1, bus229, bus250>; car: < car10>; person: < person24, person365, person370, person374, person472, person513, person75>; stop_sign: < >
+bench: < >; bus: < bus250, bus342>; car: < car10>; person: < person24, person365, person374, person472, person513, person75>; stop_sign: < >
+bench: < >; bus: < bus1, bus250>; car: < car10>; person: < person24, person365, person374, person393, person472, person513, person75>; stop_sign: < >
+bench: < >; bus: < bus1, bus250>; car: < car10>; person: < person24, person365, person374, person393, person513, person75>; stop_sign: < >
+bench: < >; bus: < bus1, bus250>; car: < car10, car407>; person: < person24, person365, person374, person393, person513, person67, person75, person84>
+bench: < >; bicycle: < >; bus: < bus1, bus229, bus250>; car: < car10, car407>; person: < person24, person365, person374, person393, person513, person67, person75, person84>
+bench: < >; bicycle: < >; bus: < bus1, bus229, bus250>; car: < car10, car350>; person: < person24, person365, person374, person393, person513, person67, person75, person84>
+bench: < >; bus: < bus229, bus250>; car: < car10, car350>; person: < person24, person374, person393, person67, person75, person84>; stop_sign: < >
+bench: < bench521>; bus: < bus1, bus250>; car: < car10, car350>; person: < person24, person365, person374, person393, person67, person75, person84>; stop_sign: < >
+bench: < bench521>; bus: < bus1, bus250>; car: < car10>; person: < person24, person365, person374, person393, person67, person75, person84>
+bench: < >; bicycle: < >; bus: < bus1, bus250>; car: < car10>; person: < person24, person374, person393, person513, person67, person75, person84>
+bench: < >; bus: < bus1, bus250>; car: < car10>; person: < person24, person365, person374, person393, person513, person67, person75, person84>
+bench: < bench521>; bicycle: < >; bus: < bus1, bus250>; car: < car10>; person: < person24, person370, person374, person393, person67, person75, person84>
+bench: < bench350>; bus: < bus1, bus250>; car: < car10, car350>; person: < person24, person365, person374, person393, person513, person67, person75, person84>
+bench: < bench350>; bus: < bus1, bus229, bus250>; car: < car10>; person: < person24, person365, person374, person393, person513, person67, person75, person84>; umbrella: < >
+bench: < bench350>; bus: < bus229, bus250>; car: < car10>; person: < person24, person374, person393, person67, person75, person84>
+bench: < bench350>; bicycle: < >; bus: < bus1, bus250>; car: < car10>; person: < person24, person374, person393, person67, person75, person84>; truck: < >
+bench: < bench350>; bicycle: < >; bus: < bus1, bus250>; car: < car10>; person: < person24, person370, person374, person513, person67, person75, person84>; stop_sign: < >; truck: < >
+bench: < bench350>; bus: < bus1, bus250>; car: < car10>; handbag: < >; person: < person24, person365, person370, person374, person513, person67, person75, person84>; umbrella: < >
+bench: < >; bicycle: < >; bus: < bus1, bus250>; car: < car10>; person: < person24, person370, person374, person67, person75, person84>; truck: < >; umbrella: < >
+bench: < bench350>; bicycle: < >; bus: < bus1, bus250>; car: < car10>; person: < person24, person365, person370, person374, person75, person84>; stop_sign: < >; truck: < >; umbrella: < >
+bench: < >; bicycle: < >; bus: < bus1, bus250>; car: < car10>; handbag: < >; person: < person24, person365, person374, person75, person84>; truck: < >
+bench: < >; bicycle: < >; bus: < bus229>; car: < car10>; person: < person24, person374, person75, person84>
+bench: < >; bicycle: < >; bus: < bus1, bus229, bus250>; car: < car10>; person: < person24, person365, person370, person374, person75, person84>
+bench: < bench350>; bicycle: < >; bus: < bus1, bus250>; car: < car10>; handbag: < >; person: < person24, person365, person370, person374, person472, person75, person84>
+bench: < bench350>; bicycle: < >; bus: < bus1, bus250>; car: < car10>; handbag: < >; person: < person24, person370, person374, person75, person84>
+bench: < >; bicycle: < >; bus: < bus1, bus250>; car: < car10, car530>; person: < person24, person370, person374, person472, person513, person75, person84>
+bench: < >; bicycle: < >; bus: < bus1, bus250>; car: < car10, car530>; person: < person24, person370, person374, person513, person75, person84>
+bench: < >; bicycle: < >; bus: < bus1, bus250>; car: < car10>; person: < person24, person374, person513, person75, person84>
+bench: < >; bicycle: < >; bus: < bus1, bus250>; car: < car10, car530>; person: < person24, person513, person84>
+bench: < >; bicycle: < >; bus: < bus250>; car: < car10, car350, car530>; person: < person24, person513, person75, person84>
+bench: < >; bicycle: < >; bus: < bus250>; car: < car10, car350, car530>; person: < person24, person370, person374, person513, person84>; stop_sign: < >
+bench: < >; bus: < bus250>; car: < car10, car530>; person: < person24, person370, person374, person513, person75, person84>
+bicycle: < >; bus: < bus250>; car: < car10, car407, car530>; person: < person24, person370, person374, person513, person84>
+bicycle: < >; bus: < bus250>; car: < car10, car530>; person: < person24, person370, person374, person393, person513, person75, person84>
+bus: < bus250>; car: < car10, car539>; person: < person24, person374, person393, person513, person84>; stop_sign: < >; truck: < >
+bench: < >; bus: < bus250>; car: < car10, car539>; person: < person24, person370, person374, person393, person513, person75, person84>; stop_sign: < >
+bench: < >; bicycle: < >; bus: < bus1, bus250>; car: < car10, car407, car539>; person: < person24, person370, person374, person393, person472, person513, person67, person75, person84>; stop_sign: < >
+bench: < >; bus: < bus1, bus250>; car: < car10, car350, car530>; person: < person24, person370, person374, person393, person472, person513, person67, person75, person84>; stop_sign: < >
+bus: < bus1>; car: < car10, car530>; person: < person24, person370, person374, person393, person513, person75, person84>; stop_sign: < stop_sign478>
+bench: < >; bus: < bus1, bus250>; car: < car10, car407, car530>; person: < person24, person370, person374, person393, person513, person67, person75, person84>; stop_sign: < stop_sign478>
+bench: < >; bus: < >; car: < car10, car350, car407>; person: < person24, person370, person374, person393, person513, person67, person75, person84>; stop_sign: < stop_sign478>
+bus: < bus1>; car: < car10, car350, car407, car530, car539>; person: < person24, person370, person393, person513, person75, person84>; stop_sign: < stop_sign478>
+bench: < >; bus: < bus1, bus250>; car: < car10, car407, car530, car539>; person: < person24, person393, person75, person84>; stop_sign: < stop_sign478>
+bicycle: < >; bus: < bus1, bus250>; car: < car10, car350>; person: < person24, person370, person374, person393, person513, person84>; stop_sign: < stop_sign478>
+bicycle: < >; bus: < bus250>; car: < car10, car350, car407>; person: < person24, person374, person393, person472, person513, person84>; stop_sign: < stop_sign478>
+bicycle: < >; bus: < bus250>; car: < car10, car350, car407>; person: < person24, person374, person393, person472, person513, person84>; stop_sign: < stop_sign478>
+bicycle: < >; bus: < bus250>; car: < car10, car350, car407, car530>; person: < person24, person393, person513, person84>; stop_sign: < stop_sign478>
+bus: < bus250>; car: < car10, car350, car407, car530>; person: < person24, person393, person84>; stop_sign: < stop_sign478>; truck: < >
+bicycle: < >; bus: < bus1, bus250>; car: < car10, car350, car530>; person: < person24, person393, person84>; stop_sign: < stop_sign478>
+bench: < >; bus: < bus250>; car: < car10, car350, car407, car530, car539>; person: < person24, person370, person393, person84>; stop_sign: < stop_sign478>; truck: < >
+bus: < bus250>; car: < car10, car350, car530>; person: < person24, person370, person374, person393, person472, person84>; stop_sign: < stop_sign478>
+bus: < bus1, bus250>; car: < car10, car350, car530>; person: < person24, person393, person472, person84>; stop_sign: < stop_sign478>; truck: < >
+bench: < >; bus: < bus250>; car: < car10, car350, car530, car557>; person: < person24, person393, person472, person84>; stop_sign: < stop_sign478>
+bus: < bus250>; car: < car10, car350, car407, car539, car557>; handbag: < >; person: < person24, person370, person393, person472, person84>; stop_sign: < stop_sign478>
+bus: < bus1, bus250>; car: < car10, car350, car539, car557>; person: < person24, person370, person374, person393, person472, person84>; stop_sign: < stop_sign478>
+bus: < bus250>; car: < car10, car350, car530, car539, car557>; person: < person24, person370, person374, person393, person472, person84>; stop_sign: < stop_sign478>
+bus: < bus250>; car: < car10, car350, car539, car561>; person: < person24, person370, person393, person472, person84>; stop_sign: < stop_sign478>
+bus: < bus250>; car: < car10, car350, car539, car561>; person: < person24, person370, person393, person472, person84>; stop_sign: < stop_sign478>
+bus: < bus250>; car: < car10, car350, car539>; person: < person24, person370, person393, person472, person84>; stop_sign: < stop_sign478>
+bus: < bus250>; car: < car10, car350, car530, car539>; person: < person24, person370, person393, person84>; stop_sign: < stop_sign478>
+bus: < bus250>; car: < car10, car350>; person: < person24, person370, person374, person393, person472, person67, person84>; stop_sign: < stop_sign478>
+bus: < bus250>; car: < car10, car350, car530>; person: < person24, person370, person374, person393, person472, person67, person84>; stop_sign: < stop_sign478>; traffic_light: < >
+bus: < bus250>; car: < car10, car350, car530>; parking_meter: < >; person: < person24, person370, person374, person393, person472, person67, person84>; stop_sign: < stop_sign478>
+bus: < bus1, bus250>; car: < car10, car350, car539>; parking_meter: < >; person: < person24, person374, person393, person472, person67, person84>; stop_sign: < stop_sign478>
+bus: < bus1>; car: < car10, car350, car530, car561>; parking_meter: < >; person: < person24, person374, person393, person472, person67, person84>; stop_sign: < stop_sign478>
+bicycle: < >; bus: < bus1, bus250>; car: < car10, car350, car530, car561>; parking_meter: < >; person: < person24, person374, person393, person472, person67, person84>; stop_sign: < stop_sign478>
+bicycle: < >; bus: < bus250>; car: < car10, car350, car530>; parking_meter: < >; person: < person24, person374, person393, person472, person67, person84>; stop_sign: < stop_sign478>
+bus: < bus250>; car: < car10, car350, car530>; person: < person24, person374, person393, person472, person67, person84>; stop_sign: < stop_sign478>
+bus: < bus1, bus250>; car: < car10, car350, car530, car561>; parking_meter: < >; person: < person24, person374, person393, person472, person67, person84>; stop_sign: < stop_sign478>
+bus: < bus1, bus250>; car: < car10, car350, car530, car561>; parking_meter: < >; person: < person24, person374, person393, person472, person67, person84>; stop_sign: < stop_sign478>
+bus: < bus1, bus250, bus342>; car: < car350, car407, car530, car561>; parking_meter: < >; person: < person24, person374, person393, person472, person67, person84>; stop_sign: < stop_sign478>
+bus: < bus1, bus250, bus342>; car: < car10, car350, car407, car530, car561>; person: < person24, person374, person472, person67, person84>; stop_sign: < stop_sign478>
+bus: < bus1>; car: < car350, car407, car530, car561>; person: < person24, person374, person393, person472, person67, person84>; stop_sign: < stop_sign478>
+bus: < bus1, bus250>; car: < car10, car350, car407, car530>; person: < person24, person370, person374, person393, person472, person67, person84>; stop_sign: < stop_sign478>
+bus: < bus250>; car: < car10, car350, car407, car530>; person: < person24, person370, person374, person393, person472, person67, person84>; stop_sign: < stop_sign478>; truck: < >
+bus: < bus250>; car: < car10, car350, car407, car530>; motorcycle: < >; person: < person24, person370, person374, person393, person472, person67, person84>; stop_sign: < stop_sign478>; traffic_light: < >
+bus: < bus250>; car: < car10, car350, car530>; person: < person24, person370, person374, person393, person472, person67, person84>; stop_sign: < stop_sign478>
+bus: < bus1, bus342>; car: < car10, car350, car530>; person: < person24, person370, person374, person393, person472, person67, person84>; stop_sign: < stop_sign478>
+bus: < bus1>; car: < car10, car350, car407, car530>; person: < person24, person370, person374, person472, person67, person84>; stop_sign: < stop_sign478>
+bus: < bus1>; car: < car10, car350, car530>; person: < person24, person370, person374, person472, person67, person84>; stop_sign: < stop_sign478>; traffic_light: < >
+bus: < bus250>; car: < car10, car350, car530>; person: < person24, person370, person374, person393, person472, person67, person84>; stop_sign: < stop_sign478>; traffic_light: < >; truck: < >
+bus: < bus1, bus342>; car: < car10, car350, car530>; person: < person24, person370, person374, person393, person472, person67, person84>; stop_sign: < stop_sign478>; traffic_light: < >; truck: < >
+bus: < bus1, bus250>; car: < car10, car350, car530>; person: < person24, person370, person374, person393, person472, person67, person84>; stop_sign: < stop_sign478>
+bus: < bus250>; car: < car10, car350, car530>; person: < person24, person370, person374, person393, person472, person67, person84>; stop_sign: < stop_sign478>
+bus: < bus250>; car: < car10, car350, car530>; person: < person24, person370, person374, person393, person472, person67, person84>; stop_sign: < stop_sign478>
+bus: < bus250>; car: < car10, car350, car407, car530>; parking_meter: < >; person: < person24, person370, person374, person393, person472, person67, person84>; stop_sign: < stop_sign478>; traffic_light: < >
+bus: < bus342>; car: < car10, car350, car530>; person: < person24, person370, person374, person393, person472, person67, person84>; stop_sign: < stop_sign478>; truck: < >
+bus: < bus250, bus342>; car: < car10, car350, car530>; person: < person24, person370, person374, person393, person472, person84>; stop_sign: < stop_sign478>
+bus: < bus250, bus342>; car: < car10, car350, car530>; parking_meter: < >; person: < person24, person370, person374, person393, person472, person84>; stop_sign: < stop_sign478>
+bus: < >; car: < car10, car350, car407, car530>; fire_hydrant: < >; person: < person24, person370, person374, person393, person472, person84>; stop_sign: < stop_sign478>; truck: < >
+bus: < bus250>; car: < car10, car350, car407, car530, car561>; person: < person24, person370, person374, person84>; stop_sign: < stop_sign478>; truck: < >
+bus: < >; car: < car10, car350, car530, car561>; person: < person24, person370, person374, person393, person472, person84>; stop_sign: < stop_sign478>
+bus: < bus1, bus250>; car: < car10, car350, car407, car530>; person: < person24, person374, person393, person472, person84>; stop_sign: < stop_sign478>
+bus: < bus1>; car: < car10, car350, car407, car530>; parking_meter: < >; person: < person24, person374, person472, person84>; stop_sign: < stop_sign478>
+bus: < bus1>; car: < car10, car350, car407, car530>; person: < person24, person374, person84>; stop_sign: < stop_sign478>
+bus: < bus1>; car: < car10, car350, car530>; person: < person24, person374, person84>; stop_sign: < stop_sign478>; truck: < >
+bus: < bus250>; car: < car10, car350, car530>; person: < person24, person374, person84>; stop_sign: < stop_sign478>; truck: < >
+bus: < bus250>; car: < car10, car350, car530>; person: < person24, person374, person84>; stop_sign: < stop_sign478>; truck: < >
+bus: < bus1, bus250>; car: < car10, car350, car530>; person: < person24, person374, person472, person67, person84>; stop_sign: < stop_sign478>
+bus: < bus1, bus250>; car: < car10, car350, car530>; person: < person24, person370, person374, person472, person67, person84>; stop_sign: < stop_sign478>
+bus: < bus250>; car: < car10, car350, car530>; person: < person24, person370, person374, person393, person472, person67, person84>; stop_sign: < >
+bus: < bus1, bus250>; car: < car10, car350, car530>; person: < person24, person370, person374, person393, person472, person67, person84>; stop_sign: < >
+bus: < bus250>; car: < car10, car350, car530>; person: < person24, person370, person374, person393, person67, person75, person84>; stop_sign: < >
+bus: < bus1, bus250, bus342>; car: < car10, car350, car530>; person: < person24, person370, person374, person393, person472, person67, person84>; stop_sign: < >
+bus: < bus250, bus342>; car: < car350, car530>; person: < person24, person370, person374, person393, person472, person67, person84>; stop_sign: < >
+bus: < bus250>; car: < car350, car530>; person: < person24, person374, person393, person472, person67, person84>; stop_sign: < stop_sign478>
+bus: < bus1, bus250, bus342>; car: < car350, car530>; motorcycle: < >; person: < person24, person370, person374, person393, person67, person84>; stop_sign: < stop_sign478>
+bus: < bus250, bus342>; car: < car350, car530>; person: < person24, person374, person67, person84>; stop_sign: < stop_sign478>
+bus: < bus1, bus250, bus342>; car: < car10, car350, car530>; motorcycle: < >; person: < person24, person374, person67, person84>; stop_sign: < stop_sign478>
+bus: < bus250, bus342>; car: < car10, car350, car530>; motorcycle: < >; person: < person24, person374, person67, person84>; stop_sign: < stop_sign478>
+bus: < bus250, bus342>; car: < car10, car350, car530>; motorcycle: < motorcycle83>; person: < person24, person374, person84>; stop_sign: < stop_sign478>
+bus: < bus250, bus342>; car: < car10, car350, car530>; motorcycle: < motorcycle83>; person: < person24, person374, person84>; stop_sign: < stop_sign478>
+bus: < bus250, bus342>; car: < car10, car350, car530>; motorcycle: < >; person: < person24, person374, person472, person67, person84>; stop_sign: < stop_sign478>
+bus: < bus1, bus250, bus342>; car: < car10, car350, car530>; motorcycle: < motorcycle83>; person: < person24, person370, person374, person84>; stop_sign: < stop_sign478>
+bus: < bus1, bus250, bus342>; car: < car10, car350, car530>; motorcycle: < motorcycle83>; person: < person24, person370, person374, person472, person84>; stop_sign: < stop_sign478>
+bus: < bus250, bus342>; car: < car10, car350, car530>; motorcycle: < >; person: < person24, person374, person472, person84>; stop_sign: < stop_sign478>
+bus: < bus1, bus250, bus342>; car: < car10, car350, car530>; motorcycle: < >; person: < person24, person370, person374, person84>; stop_sign: < stop_sign478>
+bench: < >; bus: < bus250>; car: < car10, car350, car530>; motorcycle: < >; person: < person24, person370, person374, person67, person84>; stop_sign: < stop_sign478>
+bus: < bus342>; car: < car10, car350, car530>; motorcycle: < >; person: < person24, person370, person374, person67, person84>; stop_sign: < stop_sign478>
+bench: < >; bus: < bus342>; car: < car10, car350, car530>; motorcycle: < motorcycle592>; person: < person24, person370, person374, person472, person67, person84>; stop_sign: < >
+bus: < bus250, bus342>; car: < car10, car350, car530>; motorcycle: < motorcycle592>; person: < person24, person370, person374, person472, person67, person84>; stop_sign: < >
+bus: < bus1, bus250, bus342>; car: < car10, car350, car530>; motorcycle: < motorcycle592>; person: < person24, person370, person374, person67, person84>; stop_sign: < stop_sign478>; truck: < >
+bus: < bus250, bus342>; car: < car10, car350, car530>; motorcycle: < motorcycle592>; person: < person24, person370, person374, person67, person84>; stop_sign: < stop_sign478>
+bus: < bus1, bus250, bus342>; car: < car10, car350, car530>; motorcycle: < motorcycle592>; person: < person24, person370, person374, person393, person67, person84>; stop_sign: < stop_sign478>; umbrella: < >
+bus: < bus1, bus250, bus342>; car: < car10, car350, car530>; motorcycle: < motorcycle592>; person: < person24, person370, person374, person393, person67, person84>; stop_sign: < stop_sign478>
+bus: < bus1, bus250, bus342>; car: < car10, car350, car530>; motorcycle: < motorcycle592>; person: < person24, person370, person374, person67, person84>; stop_sign: < >
+bus: < bus1, bus250, bus342>; car: < car10, car350, car530>; motorcycle: < motorcycle592>; person: < person24, person370, person374, person67, person84>; stop_sign: < stop_sign478>
+bus: < bus250, bus342>; car: < car10, car350, car407, car530>; motorcycle: < motorcycle592>; person: < person24, person370, person374, person84>; stop_sign: < stop_sign478>
+bus: < bus250>; car: < car10, car350, car530>; motorcycle: < motorcycle592>; person: < person24, person370, person374, person67, person84>; stop_sign: < stop_sign478>
+bench: < >; bus: < bus250>; car: < car10, car350, car407, car530>; motorcycle: < motorcycle592>; person: < person24, person370, person374, person84>; stop_sign: < stop_sign478>
+bus: < bus250, bus342>; car: < car10, car350, car407, car530>; motorcycle: < motorcycle592>; person: < person24, person370, person374, person75, person84>; stop_sign: < stop_sign478>; truck: < >
+bus: < bus250>; car: < car10, car350, car530>; motorcycle: < motorcycle592>; person: < person24, person374, person84>; stop_sign: < >
+bus: < bus250, bus342, bus604>; car: < car10, car350, car530>; motorcycle: < motorcycle592>; person: < person24, person374, person84>; stop_sign: < >
+bus: < bus1, bus250>; car: < car10, car350, car407, car530>; motorcycle: < motorcycle592>; person: < person24, person374, person84>; stop_sign: < stop_sign478>
+bus: < bus1, bus250>; car: < car10, car350>; motorcycle: < motorcycle592>; person: < person24, person374, person84>; stop_sign: < stop_sign478>
+bus: < bus250, bus342>; car: < car10, car350, car530>; motorcycle: < motorcycle592>; person: < person24, person374, person84>; stop_sign: < stop_sign478>
+bus: < bus250, bus342>; car: < car10, car530>; motorcycle: < motorcycle592>; person: < person24, person374, person67, person84>; stop_sign: < stop_sign478>
+bus: < bus1, bus250, bus342>; car: < car10, car530>; motorcycle: < motorcycle592>; person: < person24, person374, person67, person84>; stop_sign: < stop_sign478>
+bus: < bus1, bus250>; car: < car10, car407, car530>; motorcycle: < motorcycle592>; person: < person24, person370, person374, person67, person84>; stop_sign: < stop_sign478>
+bus: < bus250, bus342>; car: < car10, car350, car407, car530>; motorcycle: < motorcycle592>; person: < person24, person374, person67, person84>; stop_sign: < stop_sign478>
+bus: < bus250, bus342>; car: < car10, car350, car407, car530>; motorcycle: < motorcycle592>; person: < person24, person374, person67, person75, person84>; stop_sign: < stop_sign478>
+bus: < bus1, bus250, bus342>; car: < car10, car350, car407, car530>; motorcycle: < motorcycle592>; person: < person24, person370, person374, person67, person75, person84>; stop_sign: < stop_sign478>
+bench: < >; bus: < bus1, bus250, bus342>; car: < car10, car350, car407, car530>; motorcycle: < motorcycle592>; person: < person24, person370, person374, person67, person75, person84>; stop_sign: < stop_sign478>
+bench: < >; bus: < bus1, bus250, bus342>; car: < car10, car350, car407, car530>; motorcycle: < motorcycle592>; person: < person24, person374, person67, person75, person84>; stop_sign: < stop_sign478>
+bus: < bus1>; car: < car10, car350, car407, car530, car539>; motorcycle: < motorcycle592>; person: < person24, person370, person374, person67, person75, person84>; stop_sign: < stop_sign478>
+bus: < >; car: < car10, car407, car530, car539, car557>; motorcycle: < motorcycle592>; person: < person24, person370, person374, person67, person75, person84>; stop_sign: < stop_sign478>
+bus: < >; car: < car10, car350, car530, car539>; motorcycle: < motorcycle592>; person: < person24, person374, person67, person75, person84>; stop_sign: < stop_sign478>
+bus: < >; car: < car10, car350, car407, car530>; motorcycle: < motorcycle592>; person: < person24, person374, person67, person84>; stop_sign: < stop_sign478>; truck: < >
+bus: < bus250, bus342>; car: < car10, car350, car407, car530>; motorcycle: < motorcycle592>; person: < person24, person374, person472, person67, person84>; stop_sign: < stop_sign478>; truck: < >
+bus: < bus250>; car: < car10, car350, car407, car530>; motorcycle: < motorcycle592>; person: < person24, person374, person472, person67, person84>; stop_sign: < >
+bus: < bus250>; car: < car10, car530, car557>; motorcycle: < motorcycle592>; person: < person24, person374, person67, person84>; stop_sign: < stop_sign478>
+bus: < bus1, bus250, bus342>; car: < car10, car350, car407, car530>; motorcycle: < motorcycle592>; person: < person24, person374, person472, person67, person84>; stop_sign: < stop_sign478>; truck: < >
+bus: < bus1, bus250, bus342>; car: < car10, car350, car530>; motorcycle: < motorcycle592>; person: < person24, person374, person472, person67, person84>; stop_sign: < stop_sign478>
+bus: < bus250>; car: < car10, car350, car530>; motorcycle: < motorcycle592>; person: < person24, person365, person374, person67>; stop_sign: < stop_sign478>
+bus: < bus250, bus342>; car: < car10, car350, car530>; motorcycle: < >; person: < person24, person365, person370, person374, person472, person67>; stop_sign: < stop_sign478>; truck: < >
+bus: < bus250>; car: < car10, car350, car407, car530>; motorcycle: < >; person: < person24, person365, person374, person67, person84>; stop_sign: < stop_sign478>
+bus: < bus250>; car: < car10, car350, car530>; motorcycle: < motorcycle592>; person: < person24, person365, person374, person67>; stop_sign: < >
+bus: < bus250>; car: < car10, car350, car530>; motorcycle: < motorcycle592>; person: < person24, person365, person374, person472, person67>; stop_sign: < stop_sign478>; truck: < >
+bus: < bus250, bus342>; car: < car10, car350, car530>; fire_hydrant: < >; motorcycle: < motorcycle592>; person: < person24, person365, person374, person472, person67>; stop_sign: < stop_sign478>; truck: < >
+bus: < bus250>; car: < car10, car350, car530>; motorcycle: < motorcycle592>; person: < person24, person365, person370, person374, person472, person67>; stop_sign: < >; truck: < >
+bus: < bus250>; car: < car10, car530>; motorcycle: < motorcycle592>; person: < person24, person365, person370, person374, person472, person67>; stop_sign: < stop_sign478>; truck: < >
+bus: < bus250>; car: < car10, car350, car530, car539>; motorcycle: < motorcycle592>; person: < person24, person365, person370, person374, person472, person67>; truck: < >
+bus: < bus250>; car: < car10, car530>; motorcycle: < motorcycle592>; person: < person24, person365, person370, person374, person472, person67>; stop_sign: < >; truck: < >
+bus: < bus250>; car: < car10, car530>; motorcycle: < motorcycle592>; person: < person24, person365, person370, person374, person472, person67>; truck: < >
+bus: < bus250, bus342>; car: < car10, car530>; motorcycle: < motorcycle592>; person: < person24, person365, person370, person374, person393, person472, person67>; truck: < >
+bus: < bus250>; car: < car10, car350, car530>; motorcycle: < motorcycle592>; person: < person24, person365, person370, person374, person393, person472, person67>; stop_sign: < >; truck: < >
+bus: < bus250>; car: < car10, car350, car530>; motorcycle: < motorcycle592>; person: < person24, person365, person370, person374, person393, person472, person67, person84>; stop_sign: < >; truck: < >
+bus: < bus250>; car: < car10, car350, car530>; motorcycle: < >; person: < person24, person365, person370, person374, person393, person472, person67, person84>; stop_sign: < >; truck: < >
+bicycle: < >; bus: < bus250>; car: < car10, car350, car530>; motorcycle: < motorcycle592>; person: < person24, person365, person370, person374, person67, person84>; stop_sign: < stop_sign478>; truck: < >
+bus: < bus250>; car: < car10, car350, car530>; motorcycle: < motorcycle592>; person: < person24, person365, person370, person393, person67, person84>; stop_sign: < stop_sign478>; truck: < >
+bus: < bus250, bus342>; car: < car10, car350, car530, car561>; motorcycle: < >; person: < person24, person365, person370, person374, person393, person472, person67, person84>; truck: < >
+bus: < bus250>; car: < car10, car350, car530, car561>; motorcycle: < >; person: < person24, person365, person370, person374, person67, person84>; truck: < >
+bus: < bus250, bus342>; car: < car10, car350, car530, car539, car561>; motorcycle: < >; person: < person24, person365, person370, person374, person472, person67, person84>; stop_sign: < stop_sign478>; truck: < >
+bus: < bus250, bus342>; car: < car10, car350, car530, car539, car561>; motorcycle: < >; person: < person24, person365, person370, person374, person393, person67, person84>; stop_sign: < stop_sign478>; truck: < >
+bus: < bus250, bus342>; car: < car10, car350, car530, car561>; motorcycle: < >; person: < person24, person365, person370, person374, person393, person67, person84>; truck: < >
+bench: < >; bus: < bus250, bus342>; car: < car10, car350, car530>; motorcycle: < >; person: < person24, person365, person370, person374, person67, person84>; stop_sign: < >; truck: < >
+bus: < bus250>; car: < car10, car350, car530>; person: < person24, person365, person370, person374, person67, person84>; truck: < >
+bus: < bus250, bus342>; car: < car10, car350, car530, car539, car557>; person: < person24, person365, person374, person513, person67, person84>; stop_sign: < >; truck: < >
+bus: < bus250, bus342>; car: < car10, car350, car539>; motorcycle: < >; person: < person24, person365, person370, person374, person393, person472, person513, person67, person84>; stop_sign: < >; truck: < >
+bus: < bus250, bus342>; car: < car10, car350, car530, car539>; person: < person24, person365, person370, person374, person393, person67, person84>; stop_sign: < >; truck: < >
+bus: < bus250>; car: < car10, car350, car530, car539, car561>; person: < person24, person365, person374, person472, person67, person84>; stop_sign: < >; truck: < >
+bus: < bus250>; car: < car10, car350, car539>; person: < person24, person370, person374, person393, person472, person67, person84>; suitcase: < >; truck: < >
+bus: < bus250, bus342>; car: < car10, car350, car530, car539>; person: < person24, person370, person374, person393, person472, person67, person84>; truck: < >
+bus: < bus250, bus342>; car: < car10, car350, car530, car539>; person: < person24, person370, person374, person393, person472, person67, person84>; stop_sign: < stop_sign478>; truck: < >
+bench: < >; bus: < bus250, bus342>; car: < car10, car350, car530, car539, car561>; person: < person24, person365, person374, person393, person513, person67, person84>; truck: < >
+bus: < bus250, bus342>; car: < car10, car350, car530, car539, car561>; person: < person24, person365, person393, person472, person513, person67, person84>; stop_sign: < >; truck: < >
+bus: < bus250, bus342>; car: < car10, car350, car539, car561>; person: < person24, person472, person67, person84>; truck: < >
+bus: < bus250, bus342>; car: < car10, car350, car539>; person: < person24, person393, person472, person67, person84>; traffic_light: < >; truck: < >
+bus: < bus1, bus250>; car: < car10, car350, car530, car539, car557>; person: < person24, person393, person472, person67, person84>; traffic_light: < >; truck: < >
+bus: < bus250, bus342>; car: < car10, car350, car407, car539, car655>; person: < person24, person67, person84>; traffic_light: < >; truck: < >
+bus: < bus250, bus342>; car: < car10, car350, car530, car539, car557, car561, car655>; person: < person24, person374, person472, person67, person84>; stop_sign: < >; traffic_light: < >; truck: < >
+bus: < bus250>; car: < car10, car350, car530, car539, car557, car661>; person: < person24, person374, person472, person67, person84>; stop_sign: < >; traffic_light: < >; truck: < >
+bus: < bus250, bus342>; car: < car10, car350, car530, car539, car557, car661>; person: < person24, person472, person67, person84>; stop_sign: < >; traffic_light: < >; truck: < >
+bus: < bus250, bus342>; car: < car10, car350, car539, car557>; person: < person24, person472, person67, person84>; stop_sign: < >; traffic_light: < >; truck: < >
+bench: < >; bus: < bus1, bus250, bus342>; car: < car10, car350, car530, car539, car557>; person: < person24, person374, person472, person67, person84>; stop_sign: < stop_sign478>; traffic_light: < >; truck: < >
+bus: < bus250, bus342>; car: < car10, car350, car407, car530, car539, car557>; person: < person24, person374, person472, person67, person84>; stop_sign: < stop_sign478>; traffic_light: < >; truck: < >
+bench: < >; bus: < bus250, bus342>; car: < car10, car350, car407, car530, car539, car557>; person: < person24, person374, person472, person67, person84>; stop_sign: < stop_sign478>; truck: < >
+bus: < bus1, bus250, bus342>; car: < car10, car350, car407, car530, car539, car557>; person: < person24, person472, person84>; stop_sign: < stop_sign478>; traffic_light: < >; truck: < >
+bench: < >; bus: < bus1, bus250>; car: < car10, car350, car530, car539, car557>; person: < person24, person365, person472, person84>; stop_sign: < stop_sign478>; traffic_light: < >; truck: < >
+bus: < bus1, bus250>; car: < car10, car350, car407, car530, car539, car557>; person: < person24, person365, person472, person84>; stop_sign: < stop_sign478>; truck: < >
+bench: < >; bus: < >; car: < car10, car530, car539, car557>; person: < person24, person393, person472, person84>; stop_sign: < stop_sign478>; truck: < >
+bicycle: < >; bus: < bus250>; car: < car10, car350, car530, car539, car557>; person: < person24, person374, person472, person84>; stop_sign: < stop_sign478>; truck: < >
+bicycle: < >; bus: < >; car: < car10, car350, car530, car539, car557, car561>; person: < person24, person365, person374, person472, person84>; truck: < >
+bus: < bus250>; car: < car10, car350, car530, car539, car557, car561>; person: < person24, person365, person472, person67, person84>; truck: < >
+bus: < bus1, bus250>; car: < car10, car350, car407, car530, car539, car557, car561>; person: < person24, person472, person67, person84>; stop_sign: < >; truck: < >
+bus: < bus1, bus250, bus342>; car: < car10, car350, car530, car539, car557>; person: < person24, person472, person84>; truck: < >
+bus: < bus1, bus250, bus342>; car: < car10, car350, car530, car539>; person: < person24, person472, person84>; truck: < >
+bus: < bus1, bus250>; car: < car10, car350, car530, car539>; person: < person472, person67, person84>; stop_sign: < >; truck: < >
+bus: < >; car: < car10, car350, car539>; person: < person67, person84>; stop_sign: < >; truck: < >
+bus: < bus1, bus250>; car: < car10, car350, car539, car655>; person: < person24, person365, person370, person84>; stop_sign: < >; truck: < >
+bicycle: < >; bus: < bus250>; car: < car10, car350, car530, car539, car557, car655>; person: < person24, person365, person370, person84>; stop_sign: < >; truck: < >
+bus: < bus1, bus250, bus342>; car: < car10, car350, car407, car530, car539, car557>; motorcycle: < >; person: < person24, person365, person370, person84>; stop_sign: < >; truck: < >
+bus: < bus1, bus250, bus342>; car: < car10, car350, car407, car530, car539, car557>; person: < person24, person370, person393, person84>; stop_sign: < >; truck: < >
+bench: < >; bus: < bus250, bus342>; car: < car10, car350, car530, car539, car557>; person: < person24, person393, person84>; truck: < >
+bus: < bus250, bus342>; car: < car10, car350, car530, car539, car557>; person: < person24, person370, person393, person84>; truck: < >
+bus: < bus250, bus342>; car: < car10, car350, car530, car539, car557>; person: < person24, person370, person374, person393, person84>; stop_sign: < >; truck: < >
+bench: < >; bus: < bus1, bus250>; car: < car10, car350, car407, car530, car539, car557>; person: < person24, person374, person393, person84>; truck: < >
+bench: < >; bus: < bus1, bus250>; car: < car10, car350, car407, car530, car539, car557>; person: < person24, person374, person393, person84>; stop_sign: < >; truck: < >
+bench: < >; bus: < bus250, bus342>; car: < car10, car350, car407, car530, car539, car661>; person: < person24, person365, person374, person393, person84>; stop_sign: < >; truck: < >
+bus: < bus1, bus250>; car: < car10, car407, car530, car539, car557, car661>; person: < person24, person365, person374, person393, person84>; truck: < >
+bus: < bus250>; car: < car10, car350, car407, car530, car539, car557>; parking_meter: < >; person: < person24, person365, person370, person393, person84>; truck: < >
+bus: < bus250, bus342>; car: < car10, car350, car539, car557>; person: < person24, person365, person370, person393, person84>; truck: < >
+bus: < bus250, bus342>; car: < car10, car350, car407, car539, car557>; person: < person24, person365, person393, person84>; truck: < >
+bus: < bus1, bus250, bus342>; car: < car10, car350, car407, car539, car557, car661>; person: < person24, person365, person393, person84>; truck: < >
+bus: < bus1, bus250, bus342>; car: < car10, car350, car539, car557>; person: < person24, person365, person370, person374, person393, person84>
+bench: < >; bus: < bus250>; car: < car10, car350, car539, car557, car561>; person: < person24, person365, person370, person374, person393, person84>; truck: < >
+bicycle: < >; bus: < bus250, bus342>; car: < car10, car350, car407, car530, car539, car557, car661>; person: < person24, person365, person374, person393, person472, person84>; stop_sign: < >
+bus: < bus250, bus342>; car: < car10, car350, car407, car530, car539, car557, car661>; person: < person24, person365, person374, person393, person472, person84>; stop_sign: < >
+bus: < bus1, bus250, bus342>; car: < car10, car350, car530, car539>; person: < person24, person374, person393, person472, person84>
+bus: < bus1, bus250>; car: < car10, car350, car407, car530, car539>; person: < person24, person365, person374, person393, person472, person84>
+bus: < bus1>; car: < car10, car350, car530, car539>; person: < person24, person365, person393, person472, person84>; stop_sign: < >
+bench: < >; bus: < bus1, bus342>; car: < car10, car407, car530, car539, car661>; person: < person24, person365, person374, person393, person84>
+bench: < >; bus: < >; car: < car10, car407, car530, car539, car557>; person: < person24, person374, person393, person84>; stop_sign: < >
+bench: < >; bus: < bus342>; car: < car10, car350, car407, car530, car539, car557>; person: < person24, person370, person374, person393, person513, person84>; stop_sign: < >
+bench: < >; bicycle: < >; bus: < bus250, bus342>; car: < car10, car407, car530, car539, car557, car561>; person: < person24, person370, person393, person472, person513, person84>; stop_sign: < >
+bench: < >; bicycle: < >; bus: < bus250, bus342>; car: < car10, car407, car530, car539, car557, car561, car661>; motorcycle: < >; person: < person24, person370, person393, person472, person84>; stop_sign: < >; traffic_light: < >
+bench: < >; bicycle: < >; bus: < bus250, bus342>; car: < car10, car407, car530, car539, car557, car661>; person: < person24, person365, person370, person393, person713, person84>; stop_sign: < >
+bus: < bus1, bus250>; car: < car10, car350, car407, car530, car539, car557, car661>; person: < person24, person370, person393, person713, person84>; stop_sign: < >
+bench: < >; bus: < bus1, bus250, bus342>; car: < car10, car350, car407, car530, car539, car557, car661>; person: < person24, person370, person374, person393, person713, person84>; stop_sign: < >
+bicycle: < >; bus: < >; car: < car10, car350, car407, car530, car539, car557, car561, car661>; person: < person24, person370, person374, person393, person713, person84>
+bus: < bus342>; car: < car10, car350, car407, car530, car539, car557, car561, car661>; person: < person24, person370, person374, person393, person713>; stop_sign: < >
+bench: < >; bus: < bus250>; car: < car10, car350, car407, car530, car539, car557, car561>; motorcycle: < >; person: < person24, person365, person370, person374, person393, person513, person713>; stop_sign: < >
+bench: < >; bicycle: < >; bus: < bus342>; car: < car10, car530, car539, car557, car561, car661>; person: < person24, person370, person374, person393, person713>; stop_sign: < >
+bicycle: < >; bus: < bus250>; car: < car10, car350, car407, car530, car539, car557, car561, car655, car661>; person: < person365, person370, person374, person393, person713>
+bus: < bus342>; car: < car10, car350, car530, car539, car557, car561, car655>; person: < person365, person370, person374, person393, person713>
+bus: < bus250, bus342>; car: < car10, car350, car530, car539, car557, car561>; person: < person365, person370, person374, person393, person713>; stop_sign: < >
+bicycle: < >; bus: < bus1, bus250>; car: < car10, car530, car539, car557, car561>; motorcycle: < >; person: < person365, person370, person374, person393, person713>; stop_sign: < >
+bus: < bus1, bus342>; car: < car10, car350, car530, car539, car557, car561, car655, car661>; person: < person24, person365, person370, person374, person393, person713>; stop_sign: < >; truck: < >
+bicycle: < >; bus: < bus1, bus342>; car: < car10, car350, car530, car539, car557, car561, car661>; person: < person24, person365, person370, person374, person393, person713>; stop_sign: < >
+bicycle: < >; bus: < bus250, bus342>; car: < car10, car350, car530, car539, car557, car561, car655>; person: < person365, person370, person374, person393, person713>
+bicycle: < >; bus: < >; car: < car10, car350, car407, car530, car539, car557, car561, car655, car720>; person: < person365, person370, person374, person393, person713>; stop_sign: < >
+bus: < bus1, bus250, bus342>; car: < car10, car350, car407, car530, car539, car557, car561, car655, car661>; motorcycle: < >; person: < person365, person370, person374, person393, person713>; stop_sign: < >; traffic_light: < >
+bench: < >; bicycle: < >; bus: < bus1, bus250, bus342>; car: < car10, car350, car407, car530, car539, car557, car561, car655>; motorcycle: < >; person: < person365, person370, person374, person393, person713>; stop_sign: < >; traffic_light: < >
+bench: < >; bicycle: < >; bus: < bus1, bus250>; car: < car10, car350, car407, car530, car539, car557, car561, car655>; motorcycle: < >; person: < person365, person370, person374, person393, person713>; stop_sign: < >
+bus: < bus1, bus250>; car: < car10, car350, car407, car530, car539, car557, car561, car655>; motorcycle: < >; person: < person365, person370, person374, person393, person713, person84>; stop_sign: < >
+bicycle: < >; bus: < bus1, bus250, bus342>; car: < car10, car350, car530, car539, car557, car561, car655, car661>; motorcycle: < >; person: < person365, person370, person374, person393>; traffic_light: < >
+bus: < bus1, bus250>; car: < car10, car350, car530, car539, car557, car561, car655>; motorcycle: < motorcycle592>; person: < person365, person370, person374, person393, person84>
+bus: < bus1, bus250>; car: < car10, car350, car407, car530, car539, car557, car561, car655>; motorcycle: < motorcycle592>; person: < person365, person374, person393, person84>; stop_sign: < >; traffic_light: < >
+bicycle: < >; bus: < >; car: < car10, car350, car530, car539, car557, car561, car655, car661>; motorcycle: < motorcycle592>; person: < person365, person374, person393, person84>; stop_sign: < >; traffic_light: < >
+bus: < bus1, bus250>; car: < car10, car350, car407, car530, car539, car561, car655, car661>; motorcycle: < motorcycle592>; person: < person365, person374, person393, person84>; stop_sign: < >
+bus: < bus1, bus250>; car: < car10, car350, car407, car530, car539, car561, car655, car661>; motorcycle: < motorcycle592>; person: < person365, person370, person374, person393, person84>; stop_sign: < >
+bus: < bus1, bus250>; car: < car10, car350, car530, car539, car561, car661>; motorcycle: < motorcycle592>; person: < person365, person370, person374, person393, person84>; stop_sign: < >
+bus: < bus1, bus250>; car: < car10, car350, car407, car530, car539, car557, car561, car655, car661>; motorcycle: < motorcycle592>; person: < person365, person370, person374, person393, person84>; stop_sign: < >; truck: < >
+bus: < bus250>; car: < car10, car350, car407, car530, car539, car557, car561, car655, car661>; motorcycle: < motorcycle592>; person: < person365, person370, person374, person393, person84>; stop_sign: < >; traffic_light: < >
+bicycle: < >; bus: < bus250>; car: < car10, car350, car407, car530, car539, car557, car561, car655, car661, car720>; motorcycle: < motorcycle592>; person: < person365, person374, person393, person84>; stop_sign: < >
+bicycle: < >; bus: < bus1>; car: < car10, car407, car530, car539, car561, car655, car720>; motorcycle: < motorcycle592>; person: < person365, person374, person393, person84>; stop_sign: < >
+bicycle: < >; bus: < bus250>; car: < car10, car350, car407, car530, car539, car561, car655, car720>; motorcycle: < motorcycle592>; person: < person365, person374, person393, person84>; stop_sign: < >
+bus: < bus1, bus342>; car: < car10, car350, car407, car530, car539, car561, car655, car661>; motorcycle: < motorcycle592>; person: < person374, person393, person84>; stop_sign: < >
+bicycle: < >; bus: < bus1, bus342>; car: < car10, car350, car407, car530, car539, car557, car561, car655, car661>; motorcycle: < motorcycle592>; person: < person365, person374, person393, person84>; stop_sign: < >
+bus: < bus1>; car: < car10, car407, car530, car539, car557, car561, car655, car661>; motorcycle: < motorcycle592>; person: < person24, person365, person374, person393, person84>; stop_sign: < >
+bicycle: < >; bus: < bus1>; car: < car10, car530, car539, car557, car561, car655, car661>; motorcycle: < motorcycle592>; person: < person24, person374, person393, person84>; stop_sign: < >
+bicycle: < >; bus: < bus342>; car: < car10, car350, car407, car530, car539, car561, car655, car661>; motorcycle: < motorcycle592>; person: < person365, person374, person393, person84>; stop_sign: < >
+bicycle: < >; bus: < bus1>; car: < car10, car350, car407, car530, car539, car561, car655, car661>; motorcycle: < motorcycle592>; person: < person365, person370, person374, person393, person84>; stop_sign: < >
+bicycle: < >; bus: < bus342>; car: < car10, car350, car407, car530, car539, car561, car655, car661>; motorcycle: < motorcycle592>; person: < person365, person374, person393, person84>; stop_sign: < >
+bicycle: < >; bus: < bus342>; car: < car10, car407, car530, car557, car561, car655, car661>; motorcycle: < motorcycle592>; person: < person365, person374, person393, person84>; stop_sign: < >
+bicycle: < bicycle83>; bus: < bus1>; car: < car10, car530, car557, car561, car655, car661>; motorcycle: < motorcycle592>; person: < person365, person374, person393, person84>; stop_sign: < >
+bicycle: < >; bus: < bus1>; car: < car10, car407, car530, car539, car557, car561, car655, car661>; motorcycle: < motorcycle592>; person: < person365, person374, person393, person84>; stop_sign: < >
+bicycle: < >; bus: < bus1, bus342>; car: < car10, car350, car407, car530, car539, car557, car561, car655, car661>; motorcycle: < motorcycle592>; person: < person365, person84>; stop_sign: < >
+bicycle: < >; bus: < bus1, bus250, bus342>; car: < car10, car350, car407, car530, car539, car557, car561, car655, car661>; motorcycle: < motorcycle592>; person: < person365, person84>; stop_sign: < >
+bus: < bus1, bus250, bus342>; car: < car10, car350, car407, car530, car539, car557, car561, car655>; motorcycle: < motorcycle592>; person: < person365, person370, person393, person84>; stop_sign: < >
+bus: < bus1>; car: < car10, car350, car407, car530, car539, car557, car561, car655, car661>; motorcycle: < >; person: < person393, person84>; stop_sign: < >
+bus: < bus1, bus342>; car: < car10, car350, car407, car530, car539, car557, car561, car655, car661>; motorcycle: < >; person: < person24, person370, person374, person393, person472, person84>; stop_sign: < >; traffic_light: < >
+bus: < bus1, bus342>; car: < car10, car350, car407, car530, car539, car561, car655, car661>; motorcycle: < motorcycle592>; person: < person24, person374, person393, person472, person84>; stop_sign: < >
+bus: < bus1, bus342>; car: < car10, car350, car407, car530, car539, car561, car655, car661>; person: < person24, person374, person393, person472, person84>
+bicycle: < >; bus: < bus1, bus342>; car: < car10, car350, car407, car530, car539, car561, car655, car661>; motorcycle: < >; person: < person24, person374, person393, person472, person84>; stop_sign: < >; traffic_light: < >
+bicycle: < >; bus: < bus1>; car: < car10, car407, car530, car539, car557, car561, car655, car661>; motorcycle: < >; person: < person374, person393, person84>; stop_sign: < >
+bicycle: < >; bus: < bus342>; car: < car10, car407, car530, car539, car561, car655>; person: < person370, person374, person393, person84>; stop_sign: < >
+bus: < bus342>; car: < car10, car350, car407, car530, car561, car655, car661>; person: < person24, person370, person374, person393, person84>; stop_sign: < >; traffic_light: < >
+bench: < >; bicycle: < >; bus: < bus1>; car: < car10, car350, car407, car530, car557, car561, car655>; handbag: < >; motorcycle: < >; person: < person24, person393, person472, person84>; stop_sign: < >
+bicycle: < >; bus: < bus1, bus342>; car: < car10, car350, car530, car557, car561, car655, car661>; person: < person24, person370, person374, person393, person472, person84>; stop_sign: < >; tennis_racket: < >
+bicycle: < >; bus: < bus342>; car: < car10, car350, car530, car539, car557, car561, car655>; person: < person24, person370, person374, person393, person472, person84>; stop_sign: < >
+bus: < >; car: < car10, car350, car407, car530, car539, car561, car655>; person: < person24, person370, person374, person393, person472>; stop_sign: < >
+bicycle: < >; bus: < bus1>; car: < car10, car350, car530, car539, car561, car655>; motorcycle: < >; person: < person24, person370, person374, person393, person472, person84>; stop_sign: < >
+bicycle: < >; bus: < bus1>; car: < car10, car407, car530, car539, car557, car561, car655>; person: < person24, person370, person374, person393, person472, person84>; stop_sign: < >
+bench: < >; bicycle: < >; bus: < bus1>; car: < car10, car350, car407, car530, car539, car557, car561, car655>; motorcycle: < motorcycle592>; person: < person24, person365, person370, person374, person393, person472, person84>; stop_sign: < >
+bicycle: < >; bus: < bus1, bus250, bus342>; car: < car10, car350, car530, car539, car557, car561, car655, car661, car720>; person: < person24, person370, person374, person393, person472, person84>; stop_sign: < >
+bench: < >; bus: < bus1, bus250, bus342>; car: < car10, car350, car530, car539, car557, car561, car655, car720>; person: < person24, person370, person374, person393, person472, person84>; stop_sign: < >; truck: < >
+bench: < >; bicycle: < >; bus: < bus250>; car: < car10, car350, car530, car539, car557, car561, car655, car720>; motorcycle: < >; person: < person24, person370, person374, person393, person472, person84>; traffic_light: < >; truck: < >
+bicycle: < >; bus: < bus1, bus250>; car: < car10, car350, car530, car539, car557, car561, car655, car720>; motorcycle: < >; person: < person24, person370, person374, person393, person84>; stop_sign: < >; truck: < truck246>
+bicycle: < >; bus: < bus1, bus342>; car: < car10, car350, car530, car539, car557, car561, car655, car720>; motorcycle: < >; person: < person24, person370, person374, person393, person472, person84>; stop_sign: < >
+bicycle: < bicycle83>; bus: < bus342>; car: < car10, car350, car530, car539, car557, car561, car655, car720>; motorcycle: < >; person: < person24, person365, person370, person374, person393, person84>; stop_sign: < >
+bicycle: < >; bus: < bus1, bus250, bus342>; car: < car10, car407, car530, car539, car557, car561, car655, car720>; motorcycle: < >; person: < person24, person374, person393, person513, person84>; stop_sign: < >
+bus: < bus1, bus250, bus342>; car: < car10, car407, car530, car539, car557, car561, car655, car720>; motorcycle: < >; person: < person365, person370, person374, person393, person513, person84>; stop_sign: < >
+bus: < bus1, bus250, bus342>; car: < car10, car407, car530, car539, car557, car561, car655, car720>; motorcycle: < >; person: < person365, person370, person374, person393, person472, person513, person84>; stop_sign: < >
+bus: < bus1, bus250>; car: < car10, car530, car539, car561, car655, car720>; person: < person365, person370, person374, person393, person472, person84>; stop_sign: < >
+bus: < bus1, bus250>; car: < car10, car407, car530, car539, car557, car561, car655, car720>; motorcycle: < >; person: < person365, person370, person374, person393, person472, person84>; stop_sign: < >
+bus: < bus250, bus342>; car: < car10, car407, car530, car539, car557, car561, car655, car720>; person: < person365, person370, person374, person393, person84>; stop_sign: < >; truck: < >
+bus: < bus1, bus250>; car: < car10, car407, car530, car539, car557, car561, car655, car720>; person: < person365, person370, person374, person393, person84>; stop_sign: < >
+bus: < bus250>; car: < car10, car350, car407, car530, car539, car557, car561, car655, car720>; person: < person365, person370, person374, person393, person472, person513, person84>; stop_sign: < >
+bicycle: < >; bus: < bus1, bus250>; car: < car10, car350, car407, car530, car539, car557, car561, car655, car720>; person: < person365, person370, person374, person393, person472, person513, person713, person84>; stop_sign: < >
+bicycle: < >; bus: < bus1, bus250, bus342>; car: < car10, car350, car407, car530, car539, car561, car655>; motorcycle: < >; person: < person24, person365, person370, person374, person393, person472, person513, person713, person84>; stop_sign: < >
+bus: < bus250, bus342>; car: < car10, car350, car407, car530, car539, car557, car561, car655, car720>; person: < person24, person365, person370, person374, person393, person472, person513, person713, person84>; stop_sign: < >
+bench: < >; bus: < bus342>; car: < car10, car350, car407, car530, car539, car557, car561, car655, car661, car720>; person: < person24, person374, person393, person472, person513, person713, person84>; stop_sign: < >
+bicycle: < >; bus: < bus250, bus342>; car: < car10, car350, car407, car530, car539, car557, car561, car655, car720>; motorcycle: < >; person: < person24, person374, person393, person472, person513, person713, person84>; stop_sign: < stop_sign478>
+bicycle: < >; bus: < bus250>; car: < car10, car350, car407, car530, car539, car561, car655, car720>; motorcycle: < motorcycle592, motorcycle716>; person: < person24, person393, person472, person513, person713>; stop_sign: < stop_sign478>
+bicycle: < >; bus: < bus250>; car: < car10, car350, car407, car530, car539, car561, car655, car720>; motorcycle: < motorcycle592>; person: < person24, person393, person472, person513, person713>; stop_sign: < stop_sign478>
+bicycle: < >; bus: < bus250, bus342>; car: < car10, car350, car407, car530, car539, car561, car655, car661, car720, car749>; motorcycle: < motorcycle592>; person: < person24, person370, person393, person472, person513>; stop_sign: < stop_sign478>
+bench: < >; bicycle: < >; bus: < bus1, bus250>; car: < car10, car350, car407, car530, car539, car561, car655, car661, car720, car749>; motorcycle: < motorcycle592>; person: < person24, person370, person393, person472, person513>; stop_sign: < stop_sign478>
+bench: < >; bus: < bus250, bus342>; car: < car10, car350, car407, car530, car539, car561, car655, car720, car749>; motorcycle: < motorcycle592>; person: < person24, person370, person393, person472, person513>; stop_sign: < stop_sign478>
+bicycle: < >; bus: < bus1, bus250>; car: < car10, car350, car407, car530, car539, car557, car561, car661, car720, car749>; motorcycle: < motorcycle592>; person: < person24, person370, person393, person472, person513>; stop_sign: < stop_sign478>
+bicycle: < >; bus: < bus250, bus342>; car: < car350, car407, car530, car539, car561, car655, car661, car720>; motorcycle: < motorcycle592>; person: < person24, person370, person393, person472, person513>; stop_sign: < stop_sign478>
+bench: < >; bicycle: < >; bus: < bus250>; car: < car10, car350, car407, car530, car557, car561, car655, car661, car720>; motorcycle: < >; person: < person24, person370, person393, person472, person513>; stop_sign: < stop_sign478>; traffic_light: < >
+bicycle: < >; bus: < bus1, bus250, bus342>; car: < car10, car350, car407, car530, car557, car561, car655, car720, car749>; person: < person24, person370, person393, person472, person513>; stop_sign: < stop_sign478>; traffic_light: < >
+bus: < bus1>; car: < car10, car350, car407, car530, car539, car557, car561, car655, car749>; motorcycle: < >; person: < person24, person370, person393, person472, person513, person84>; stop_sign: < stop_sign478>; traffic_light: < >; truck: < >
+bicycle: < >; bus: < bus250>; car: < car10, car350, car407, car530, car561, car655, car661, car720, car749>; person: < person24, person365, person370, person393, person472, person513, person84>; stop_sign: < stop_sign478>
+bus: < bus1>; car: < car10, car350, car407, car530, car561, car655, car661, car720>; person: < person24, person365, person370, person393, person472, person513, person84>; stop_sign: < stop_sign478>
+bench: < >; bus: < bus1, bus250, bus342>; car: < car10, car350, car530, car561, car655, car661, car720, car749>; person: < person24, person365, person370, person393, person472, person513, person84>; stop_sign: < stop_sign478>
+bus: < bus250>; car: < car10, car350, car407, car530, car539, car561, car655, car661, car720>; person: < person24, person365, person370, person374, person393, person472, person513, person84>; stop_sign: < stop_sign478>
+bus: < bus250>; car: < car10, car350, car407, car539, car561, car655, car661, car720>; person: < person24, person365, person370, person374, person393, person472, person513, person84>; stop_sign: < stop_sign478>; traffic_light: < >
+bus: < bus250>; car: < car10, car350, car407, car530, car539, car561, car655, car661, car720>; person: < person24, person365, person374, person393, person472, person513, person84>; stop_sign: < stop_sign478>; traffic_light: < >
+bench: < >; bus: < bus1, bus250>; car: < car10, car350, car407, car539, car561, car655, car661, car720>; person: < person24, person365, person374, person393, person513, person84>; stop_sign: < stop_sign478>
+bus: < bus250, bus342>; car: < car10, car350, car407, car530, car539, car561, car655, car661, car720>; person: < person24, person365, person370, person374, person393, person513, person84>; stop_sign: < stop_sign478>
+bench: < >; bus: < bus1, bus250, bus342>; car: < car10, car350, car407, car530, car539, car561, car655, car720>; person: < person24, person365, person370, person393, person513>; stop_sign: < stop_sign478>; traffic_light: < >
+bench: < >; bus: < bus1>; car: < car10, car350, car539, car561, car655, car720>; parking_meter: < >; person: < person24, person365, person370, person393, person472, person513, person84>; stop_sign: < stop_sign478>; traffic_light: < >
+bench: < >; bus: < bus1, bus342>; car: < car10, car350, car407, car539, car557, car561, car655, car720>; person: < person24, person365, person370, person374, person393, person472, person513, person84>; stop_sign: < stop_sign478>; traffic_light: < >
+bus: < bus1, bus250, bus342>; car: < car10, car350, car407, car530, car539, car561, car655, car720>; person: < person24, person365, person370, person374, person393, person472, person513, person84>; stop_sign: < >
+bus: < bus342>; car: < car10, car350, car407, car530, car539, car561, car655, car661, car720>; person: < person24, person365, person370, person374, person393, person472, person513, person84>; stop_sign: < stop_sign478>
+bus: < bus1>; car: < car10, car350, car407, car530, car539, car655, car661, car720>; person: < person24, person365, person370, person374, person393, person472, person513, person84>; stop_sign: < stop_sign478>
+bus: < >; car: < car10, car350, car407, car530, car539, car655, car720>; person: < person24, person365, person370, person374, person393, person472, person513, person84>; stop_sign: < stop_sign478>; traffic_light: < >
+bus: < bus250>; car: < car10, car350, car407, car530, car539, car561, car655, car661, car720>; person: < person24, person365, person370, person374, person393, person472, person513, person84>; stop_sign: < stop_sign478>; traffic_light: < >
+bus: < >; car: < car10, car350, car407, car539, car561, car655, car661, car720>; motorcycle: < >; person: < person24, person365, person370, person374, person393, person472, person84>; stop_sign: < stop_sign478>
+bus: < bus250>; car: < car10, car350, car407, car530, car539, car561, car655, car720>; person: < person24, person365, person370, person374, person393, person472, person513, person84>; stop_sign: < stop_sign478>; traffic_light: < >
+bench: < >; bus: < bus1, bus342>; car: < car10, car350, car407, car530, car539, car561, car655, car720>; person: < person24, person365, person370, person374, person393, person472, person513, person84>; stop_sign: < stop_sign478>; traffic_light: < >
+bus: < bus1>; car: < car10, car350, car530, car539, car561, car655, car720>; motorcycle: < >; person: < person24, person365, person370, person374, person393, person472, person513, person84>; stop_sign: < stop_sign478>; traffic_light: < >
+bus: < bus1, bus250, bus342>; car: < car10, car350, car407, car530, car539, car561, car655, car720>; motorcycle: < >; person: < person24, person365, person370, person374, person472, person513, person84>; stop_sign: < >
+bus: < bus250>; car: < car10, car350, car407, car530, car539, car561, car655, car720>; motorcycle: < >; person: < person24, person365, person370, person472, person513, person713, person84>; stop_sign: < >
+bus: < bus250, bus342>; car: < car10, car350, car407, car530, car539, car561, car655, car661, car720>; person: < person24, person365, person370, person472, person713, person84>; traffic_light: < >
+bus: < bus250>; car: < car10, car350, car407, car530, car539, car561, car655, car661, car720>; motorcycle: < motorcycle592>; person: < person24, person365, person370, person374, person472, person713, person84>; stop_sign: < >; traffic_light: < >
+bicycle: < >; bus: < bus250, bus342>; car: < car10, car350, car530, car539, car561, car655, car720>; motorcycle: < motorcycle592>; person: < person365, person370, person374, person713, person84>; stop_sign: < >
+bench: < >; bicycle: < >; bus: < bus1, bus250, bus342>; car: < car10, car350, car530, car539, car561, car655, car720>; motorcycle: < motorcycle592>; person: < person365, person370, person374, person472, person713, person84>; stop_sign: < >
+bus: < bus1, bus250, bus342>; car: < car10, car350, car407, car530, car539, car557, car561, car655, car720>; motorcycle: < motorcycle592>; person: < person24, person365, person374, person393, person472, person84>; stop_sign: < >; traffic_light: < >
+bus: < bus1>; car: < car10, car350, car407, car530, car539, car561, car655, car720>; motorcycle: < >; person: < person24, person365, person374, person472, person713, person809, person84>; stop_sign: < stop_sign478>; traffic_light: < >
+bus: < >; car: < car10, car350, car407, car530, car539, car561, car655, car720>; motorcycle: < >; person: < person24, person365, person374, person472, person713, person809, person84>; stop_sign: < stop_sign478>; traffic_light: < >
+bus: < bus1, bus250, bus342>; car: < car10, car350, car407, car530, car539, car561, car655, car720>; motorcycle: < >; person: < person24, person365, person374, person472, person713, person809, person84>; stop_sign: < stop_sign478>
+bus: < bus1, bus250, bus342>; car: < car10, car350, car407, car530, car539, car561, car655, car720>; motorcycle: < >; person: < person24, person365, person370, person472, person713, person809, person84>; stop_sign: < stop_sign478>
+bus: < bus1, bus342>; car: < car10, car350, car530, car539, car561, car655, car720>; motorcycle: < motorcycle592>; person: < person24, person365, person370, person472, person713, person809, person84>; stop_sign: < >; truck: < >
+bus: < bus1, bus250>; car: < car10, car350, car407, car530, car539, car561, car655, car720>; person: < person24, person365, person370, person472, person713, person809, person84>; stop_sign: < stop_sign478>
+bus: < bus250, bus342>; car: < car10, car350, car407, car530, car539, car561, car655, car720>; motorcycle: < motorcycle592>; person: < person24, person365, person370, person393, person713, person809, person84>; stop_sign: < stop_sign478>; traffic_light: < >
+bus: < bus250>; car: < car10, car350, car407, car539, car561, car655, car661, car720>; motorcycle: < motorcycle592>; person: < person24, person365, person370, person393, person809, person84>; stop_sign: < stop_sign478>
+bus: < bus1, bus250, bus342>; car: < car10, car350, car407, car530, car539, car561, car655, car661, car720>; motorcycle: < >; person: < person24, person365, person370, person374, person393, person809, person84>; stop_sign: < stop_sign478>
+bus: < bus1, bus250>; car: < car10, car350, car407, car530, car539, car561, car655, car720>; motorcycle: < >; person: < person24, person365, person370, person374, person393, person809, person84>; stop_sign: < stop_sign478>
+bus: < bus250>; car: < car10, car350, car407, car530, car539, car561, car655, car720, car749>; motorcycle: < >; person: < person24, person365, person370, person374, person393, person809, person820, person84>; stop_sign: < stop_sign478>
+bus: < bus1, bus250>; car: < car10, car350, car530, car539, car561, car720, car749>; person: < person24, person365, person370, person374, person393, person809, person820, person84>; stop_sign: < stop_sign478>
+bus: < bus1, bus250, bus342>; car: < car10, car350, car530, car539, car557, car561, car655, car720, car749>; motorcycle: < >; person: < person24, person365, person370, person374, person393, person713, person809, person84>; stop_sign: < stop_sign478>
+bus: < bus1, bus250, bus342>; car: < car10, car350, car530, car539, car561, car655, car720, car749>; person: < person24, person365, person370, person374, person393, person809, person820, person84>; stop_sign: < stop_sign478>
+bus: < bus1, bus250, bus342>; car: < car10, car350, car530, car539, car655, car720, car749>; person: < person24, person365, person370, person472, person713, person809, person820, person84>; stop_sign: < stop_sign478>
+bus: < >; car: < car10, car350, car530, car539, car655, car720, car749>; person: < person24, person365, person370, person713, person809, person84>; stop_sign: < stop_sign478>
+bicycle: < >; bus: < >; car: < car10, car350, car407, car530, car539, car655, car720, car749>; person: < person24, person365, person370, person713, person809, person84>; stop_sign: < stop_sign478>; traffic_light: < >
+bus: < bus342>; car: < car10, car350, car530, car539, car749>; person: < person24, person365, person370, person713, person809, person84>; stop_sign: < stop_sign478>
+bus: < bus250, bus342>; car: < car10, car350, car530, car539, car655, car720, car749>; person: < person24, person365, person370, person393, person713, person809, person84>; stop_sign: < stop_sign478>
+bus: < >; car: < car10, car350, car530, car539, car561, car749>; person: < person24, person365, person370, person393, person472, person713, person809, person84>; stop_sign: < stop_sign478>; traffic_light: < >
+bus: < >; car: < car10, car350, car530, car539, car561, car655, car720, car749>; person: < person24, person365, person370, person393, person472, person809, person820, person84>; stop_sign: < stop_sign478>
+bus: < bus1, bus250>; car: < car10, car350, car530, car539, car561, car749>; person: < person24, person365, person370, person393, person713, person809, person820, person84>; stop_sign: < stop_sign478>
+bus: < bus1, bus250>; car: < car10, car350, car530, car539, car561, car720, car749>; person: < person24, person365, person370, person393, person809, person84>; stop_sign: < stop_sign478>
+bus: < bus250>; car: < car10, car350, car530, car539, car557, car561, car720, car749>; person: < person24, person365, person370, person393, person472, person809>; stop_sign: < stop_sign478>; traffic_light: < >
+bus: < bus1, bus342>; car: < car10, car350, car530, car539, car557, car561, car720, car749>; person: < person24, person365, person370, person374, person393, person713, person809>; stop_sign: < stop_sign478>
+bus: < bus1, bus342>; car: < car10, car350, car530, car539, car557, car561, car749>; person: < person24, person365, person393, person809>; stop_sign: < >
+bus: < bus1, bus250>; car: < car10, car350, car530, car539, car557, car561, car749>; person: < person24, person365, person370, person374, person393, person809>; stop_sign: < stop_sign478>; traffic_light: < >
+bus: < bus1, bus250, bus342>; car: < car10, car350, car530, car539, car557, car720, car749>; person: < person24, person365, person370, person374, person393, person809, person84>; stop_sign: < stop_sign478>
+bus: < bus1, bus250, bus342>; car: < car10, car350, car530, car539, car557, car720, car749>; person: < person24, person365, person370, person393, person809>
+bus: < bus1, bus250>; car: < car10, car350, car530, car539, car557, car561, car720, car749>; person: < person24, person365, person370, person393, person809>; stop_sign: < >
+bus: < bus1, bus250, bus342>; car: < car10, car350, car530, car539, car557, car561, car720, car749>; person: < person24, person365, person370, person393, person809>
+bus: < bus250, bus342>; car: < car10, car350, car530, car539, car557, car720, car749>; person: < person24, person365, person393, person809>; stop_sign: < >
+bus: < bus250, bus342>; car: < car10, car350, car530, car539, car557, car561, car720, car749>; person: < person24, person365, person393, person472, person809>; stop_sign: < >
+bus: < bus250, bus342>; car: < car10, car350, car530, car539, car557, car561, car720, car749>; person: < person24, person365, person370, person393, person472, person809>; stop_sign: < >
+bus: < bus1, bus250, bus342>; car: < car10, car350, car530, car539, car557, car720, car749>; person: < person24, person365, person370, person393, person809>
+bus: < bus1, bus250, bus342>; car: < car10, car350, car530, car539, car557, car561, car720, car749>; person: < person24, person365, person370, person393, person809>
+bus: < bus250>; car: < car10, car350, car530, car539, car557, car561, car749>; person: < person24, person365, person370, person393, person809>
+bench: < >; bus: < bus250, bus342>; car: < car10, car350, car530, car539, car557, car561, car749>; person: < person24, person365, person370, person393, person809>
+bus: < bus250, bus342>; car: < car10, car350, car530, car539, car557, car561, car720, car749>; person: < person24, person370, person393, person809>
+bus: < bus1, bus250, bus342>; car: < car10, car350, car530, car539, car557, car720, car749>; person: < person24, person370, person393, person809>
+bus: < bus250, bus342>; car: < car10, car350, car530, car539, car557, car561, car720, car749>; person: < person24, person370, person393, person809>
+bus: < bus1, bus250, bus342>; car: < car10, car350, car407, car530, car539, car557, car561, car720, car749>; person: < person24, person370, person393, person809>; stop_sign: < >
+bus: < bus1, bus250, bus342>; car: < car10, car350, car407, car530, car539, car557, car561, car720, car749>; person: < person24, person370, person374, person393, person809>
+bus: < bus250, bus342>; car: < car10, car350, car407, car530, car539, car561, car749>; person: < person24, person370, person374, person809>
+bus: < bus250, bus342>; car: < car10, car350, car407, car530, car539, car557, car561, car655, car749>; person: < person370, person374, person393, person472, person809>
+bus: < bus1, bus250, bus342>; car: < car530, car539, car655, car720, car749>; person: < person365, person370, person374, person393, person472, person809>
+bus: < bus1, bus250, bus342>; car: < car407, car530, car539, car557, car561, car655, car720, car749>; person: < person365, person370, person374, person393, person809>
+bus: < bus1, bus250, bus342>; car: < car10, car407, car530, car539, car557, car561, car655, car720, car749>; person: < person370, person374, person393, person809>
+bench: < >; bus: < bus1, bus250, bus342>; car: < car10, car407, car530, car539, car557, car561, car655, car720, car749>; person: < person24, person365, person370, person374, person393, person809>
+bus: < bus250>; car: < car407, car530, car539, car557, car561, car720, car749>; person: < person24, person365, person370, person374, person393, person809>
+bus: < bus250>; car: < car10, car530, car539, car557, car561, car720, car749>; person: < person365, person370, person374, person393, person472, person809>
+bus: < bus250>; car: < car10, car350, car407, car530, car539, car557, car561, car720, car749>; person: < person365, person370, person374, person393, person472, person809>
+bus: < bus250>; car: < car10, car350, car407, car530, car539, car557, car561, car720, car749>; person: < person365, person370, person374, person393, person809>
+bus: < bus1, bus250>; car: < car350, car407, car530, car539, car557, car561, car720, car749>; person: < person365, person370, person374, person393, person809>
+bus: < bus250>; car: < car10, car350, car530, car539, car557, car561, car720, car749>; person: < person365, person370, person374, person393, person809>; stop_sign: < >
+bus: < bus1, bus250, bus342>; car: < car10, car350, car407, car530, car539, car557, car561, car655, car720, car749>; person: < person365, person370, person374, person393, person809>
+bus: < bus1, bus250, bus342>; car: < car10, car350, car407, car530, car539, car557, car561, car720, car749>; person: < person24, person365, person370, person374, person393, person809>
+bus: < bus1, bus250, bus342>; car: < car10, car350, car407, car530, car539, car557, car561, car720, car749>; person: < person24, person365, person370, person374, person393, person809>
+bench: < >; bus: < bus1, bus250, bus342>; car: < car10, car350, car407, car530, car539, car557, car561, car720, car749>; person: < person24, person365, person370, person374, person393, person809>
+bus: < bus250>; car: < car10, car350, car407, car530, car539, car557, car561, car720, car749>; person: < person24, person365, person370, person374, person393, person809>
+bus: < bus250>; car: < car10, car350, car407, car530, car539, car557, car561, car720, car749>; person: < person24, person365, person370, person393, person809>
+bus: < bus250>; car: < car10, car350, car530, car539, car557, car561, car720, car749>; person: < person365, person370, person374, person393, person713, person809>
+bus: < bus1, bus342>; car: < car10, car350, car407, car530, car539, car557, car561, car720, car749>; person: < person24, person365, person370, person374, person393, person713, person809>; stop_sign: < >
+bus: < bus1, bus250>; car: < car10, car350, car407, car530, car539, car557, car561, car655, car720, car749>; person: < person24, person365, person370, person374, person393, person713, person809>; stop_sign: < >
+bus: < bus250, bus342>; car: < car10, car350, car407, car530, car539, car557, car561, car655, car720, car749>; person: < person24, person365, person370, person374, person393, person713, person809>; stop_sign: < >
+bus: < bus342>; car: < car10, car350, car407, car530, car539, car557, car561, car655, car720, car749>; person: < person365, person374, person393, person713, person809>; stop_sign: < >
+bus: < bus250, bus342>; car: < car10, car350, car407, car530, car539, car557, car561, car655, car720, car749>; person: < person365, person374, person393, person809>; stop_sign: < >
+bus: < bus250>; car: < car10, car350, car407, car530, car539, car557, car561, car655, car720, car749>; person: < person365, person374, person393, person472, person809>; stop_sign: < >
+bus: < bus1, bus342>; car: < car10, car350, car407, car530, car539, car557, car561, car655, car720, car749>; person: < person365, person374, person393, person713, person809, person820>; stop_sign: < >
+bus: < bus1, bus250, bus342>; car: < car10, car350, car407, car530, car539, car557, car561, car655, car720, car749>; person: < person365, person374, person393, person713, person809, person820>; stop_sign: < >; truck: < >
+bus: < bus250, bus342>; car: < car10, car350, car407, car530, car539, car557, car561, car720, car749>; person: < person24, person365, person370, person374, person393, person809, person820>; stop_sign: < >; truck: < >
+bus: < bus250, bus342>; car: < car10, car350, car530, car539, car557, car561, car720, car749>; person: < person24, person365, person370, person374, person393, person472, person713, person809>; stop_sign: < >; traffic_light: < >
+bus: < bus250, bus342>; car: < car10, car350, car407, car530, car539, car557, car561, car720, car749>; person: < person24, person365, person370, person374, person393, person472, person713, person809>; stop_sign: < >
+bus: < bus342>; car: < car10, car350, car530, car539, car557, car561, car720, car749>; person: < person365, person370, person374, person393, person472, person809, person820>; stop_sign: < >
+bus: < bus342>; car: < car10, car350, car530, car539, car557, car720, car749>; person: < person365, person374, person393, person809>; stop_sign: < >; traffic_light: < >
+bus: < bus250>; car: < car10, car350, car530, car539, car561, car720, car749>; person: < person365, person374, person393, person809, person820>; stop_sign: < >; traffic_light: < >
+bus: < >; car: < car10, car350, car530, car539, car557, car561, car655, car720, car749>; person: < person365, person374, person393, person809, person820>; stop_sign: < >
+bus: < >; car: < car10, car350, car530, car539, car561, car655, car720, car749>; person: < person365, person374, person393, person809, person820>; stop_sign: < >
+bus: < bus250, bus342>; car: < car10, car350, car407, car530, car539, car561, car655, car720, car749>; person: < person365, person374, person393, person809>; stop_sign: < >
+bicycle: < >; bus: < >; car: < car10, car350, car407, car530, car539, car557, car561, car655, car720, car749>; person: < person365, person374, person393, person713, person809>; stop_sign: < >
+bicycle: < >; bus: < >; car: < car10, car350, car530, car539, car557, car561, car655, car720, car749>; person: < person365, person374, person393, person472, person809, person820>; stop_sign: < >
+bicycle: < >; bus: < bus250>; car: < car10, car350, car530, car539, car561, car655, car720, car749>; person: < person365, person370, person374, person393, person472, person809, person820>; stop_sign: < stop_sign478>
+bus: < bus250>; car: < car10, car350, car530, car539, car561, car655, car720, car749>; person: < person365, person370, person374, person393, person809>; stop_sign: < stop_sign478>
+bus: < bus342, bus604>; car: < car10, car350, car530, car539, car561, car655, car720, car749>; person: < person365, person374, person393, person809>
+bus: < bus342, bus604>; car: < car10, car350, car407, car530, car539, car557, car561, car720, car749>; person: < person365, person374, person393, person809, person820>; stop_sign: < >; truck: < >
+bicycle: < >; bus: < bus250, bus342>; car: < car10, car350, car530, car539, car561, car655, car749>; person: < person365, person374, person393, person809>; stop_sign: < >
+bicycle: < >; bus: < bus250>; car: < car10, car350, car530, car539, car557, car561, car655, car720, car749>; person: < person365, person374, person393, person809>; stop_sign: < >; truck: < >
+bus: < bus250>; car: < car10, car350, car530, car539, car655, car720, car749>; person: < person365, person374, person393, person809>; stop_sign: < >; truck: < >
+bus: < bus250, bus342>; car: < car10, car350, car530, car539, car561, car655, car720, car749>; person: < person365, person374, person393, person809>; stop_sign: < stop_sign478>
+bus: < >; car: < car10, car350, car407, car530, car539, car561, car655, car720, car749>; person: < person365, person374, person393, person809>; stop_sign: < stop_sign478>; traffic_light: < >; truck: < >
+bus: < bus342>; car: < car10, car350, car407, car530, car539, car557, car561, car655, car720, car749>; person: < person365, person374, person393, person809>; stop_sign: < stop_sign478>; truck: < >
+bus: < bus250>; car: < car10, car350, car530, car539, car561, car655, car720, car749>; person: < person365, person370, person374, person393, person472, person809>; stop_sign: < stop_sign478>
+bus: < bus1, bus250>; car: < car10, car350, car530, car539, car557, car561, car655, car661, car720, car749>; person: < person370, person374, person393, person472, person809>; stop_sign: < stop_sign478>
+bus: < bus1, bus250>; car: < car10, car350, car530, car539, car557, car561, car655, car720, car749>; person: < person370, person374, person393, person809>; stop_sign: < stop_sign478>
+bus: < bus250, bus342>; car: < car10, car350, car530, car539, car557, car561, car655, car720, car749>; person: < person370, person374, person393, person472, person809>; stop_sign: < stop_sign478>
+bus: < bus1, bus250>; car: < car10, car350, car530, car539, car557, car655, car720, car749>; person: < person374, person393, person472, person809>; stop_sign: < stop_sign478>
+bus: < bus250, bus342>; car: < car10, car350, car530, car539, car561, car655, car720, car749>; person: < person374, person393, person809>; stop_sign: < stop_sign478>
+bench: < >; bus: < bus250, bus342>; car: < car10, car350, car530, car539, car561, car655, car720, car749>; person: < person370, person374, person393, person809>; stop_sign: < stop_sign478>
